@@ -39,4 +39,4 @@ These are the things that are important for creating a useful digitization workf
 ## Exemplar workflows
 
   
-# See public page here [Bug Flow](https://entcollnet.github.io/Bug_Flow/)
+# See public page here [Bug Flow](https://entcollnet.github.io/BugFlow/)
