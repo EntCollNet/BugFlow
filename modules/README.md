@@ -29,3 +29,7 @@ no link available
 
 ### Module 6
 no link available
+
+
+### [Module List](https://entcollnet.github.io/BugFlow/modules/)
+### [See main page here](https://entcollnet.github.io/BugFlow/)
