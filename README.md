@@ -7,7 +7,12 @@ Understanding _why_ we digitize our collections objects drives the elements of a
 - intra-community access to collections data without requiring an in-person visit
 - mobilize and make available collections data to external research, policy, and education initiatives
 
-## Digitization workflow elements
+
+## 2020 Modules
+[See current module progress](modules/)
+
+
+## 2013 Digitization workflow elements
 These are the things that are important for creating a useful digitization workflow.  Specimens, labels, images, and most importantly well-identified beetles.
 
 
