@@ -35,4 +35,5 @@ List outreach opportunities that arise in workflows using this module (reference
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
 
+### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
