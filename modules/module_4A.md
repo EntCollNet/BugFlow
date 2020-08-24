@@ -1,4 +1,7 @@
 ![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
+![ECN Logo](ECN Logo and website(2).pdf)
+
+ECN Logo and website(2).pdf
 
 # Workflow Detail: Data Capture from Specimen (Pinned Things)
 
