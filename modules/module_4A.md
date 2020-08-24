@@ -1,5 +1,5 @@
 ![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
-![ECN Logo](ECN Logo and website(2).pdf)
+![ECN Logo](modules/ECN Logo and website(2).pdf)
 
 ECN Logo and website(2).pdf
 
