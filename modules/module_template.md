@@ -1,3 +1,4 @@
+<img src="https://github.com/EntCollNet/BugFlow/blob/master/modules/ECNlogo.jpg" width="200">
 ![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
 # MODULE TITLE
 
