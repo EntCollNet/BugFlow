@@ -7,7 +7,7 @@ The [template is available here](module_template.md) and is available to reate n
 ## 2020 Modules
 
 ### Module 1
-no link available
+[Module 1 - Pre-digitization Curation (Staging)](module_1.md)
 
 ### Module 0
 no link available
