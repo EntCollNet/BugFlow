@@ -1,5 +1,5 @@
 ![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
-# MODULE TITLE
+# Module 1: Pre-digitization Curation (Staging)
 
 ## Module Purpose: 
 What is this module for? What data will be gathered?
@@ -11,7 +11,7 @@ Five or six keywords that make searching easier
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
 |T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
+|T2|The second task|This is the second task and here is the explanation|See the following links|
 |T3||||
 |T4||||
 |T5||||
