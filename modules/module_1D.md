@@ -1,7 +1,3 @@
-<img height="75" alt="iDigBio logo" src="https://www.idigbio.org/sites/default/files/idigbio_logo_0.png"><img height="100" alt="Entomological Collections Network Logo" src="ECNlogo.jpg">
-
-
-
 # Moudle 1D: Proactive Data Capture: In Museum
 
 ## Module Purpose: 
