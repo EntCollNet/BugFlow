@@ -1,8 +1,6 @@
-<img width="200" alt="iDigBio logo" src="https://www.idigbio.org/sites/default/files/idigbio_logo_0.png">
-<img width="200" alt="Entomological Collections Network Logo" src="ECNlogo.jpg">
+<img width="200" alt="iDigBio logo" src="https://www.idigbio.org/sites/default/files/idigbio_logo_0.png"><img width="200" alt="Entomological Collections Network Logo" src="ECNlogo.jpg">
 
-![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png | height=150)
-![ECN Logo](ECNlogo.jpg | height=150)
+
 
 # MODULE TITLE
 
