@@ -1,5 +1,5 @@
-![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
-![ECN Logo](ECNlogo.jpg)
+![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png | height=150)
+![ECN Logo](ECNlogo.jpg | height=150)
 
 # MODULE TITLE
 
