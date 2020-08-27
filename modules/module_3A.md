@@ -3,7 +3,7 @@
 
 ECN Logo and website(2).pdf
 
-# Workflow Detail: Data Capture from Specimen (Pinned Things)
+# Module 3A: Direct Label Transcription
 
 ## Module Purpose: 
 This module is intended for capturing the primary label data from a pinned specimen,
