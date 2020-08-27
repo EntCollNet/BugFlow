@@ -1,8 +1,3 @@
-![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
-![ECN Logo](modules/ECN Logo and website(2).pdf)
-
-ECN Logo and website(2).pdf
-
 # Module 3A: Direct Label Transcription
 
 ## Module Purpose: 
