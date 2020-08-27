@@ -1,5 +1,5 @@
 ![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
-# Module 1: Pre-digitization Curation (Staging)
+# Module 1A: Inventory and Taxonomy Update (Pre-digitization) 
 
 ## Module Purpose: 
 What is this module for? What data will be gathered?
