@@ -1,5 +1,5 @@
 ![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
-# MODULE 4F: Slide Label/low-res Imaging
+# Module 4F: Slide Label/low-res Imaging
 
 ## Module Purpose: 
 Use this module to image slide labels. 
