@@ -1,4 +1,3 @@
-![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
 # Module 4F: Slide Label/low-res Imaging
 
 ## Module Purpose: 
