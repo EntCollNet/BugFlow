@@ -1,4 +1,3 @@
-![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
 # Module 1A: Inventory and Taxonomy Update (Pre-digitization) 
 
 ## Module Purpose: 
