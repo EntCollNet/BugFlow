@@ -1,24 +1,18 @@
 # Module 4H: Dry Bulk Low-res Imaging 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
-
+Capturing non-stacked images of dried bulk materials. This workflow has specifically been designed for the CAS "flats", which are collected insects stored at room temperature in cardboard boxes. Similar workflows can be adapted for pill-boxes, trays, etc.
 ## Module Keywords: 
-Five or six keywords that make searching easier
-
+bulk, bycatch, imaging, dry
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
-|T3||||
-|T4||||
-|T5||||
-|T6||||
-|T7||||
-|T8||||
-|T9||||
-|T10||||
+|T1| Affix GUID|Attach external and internal duplicate GUID to container| [Adhesive label supplier](https://barcode-labels.com/)|
+|T2|Prepare container for imaging|Rearrange labels, add ruler, logo, color target||
+|T3|Capture image|Check focus, white balance before beginning||
+|T4|Transcribe Metadata|||
+|T5|Export image|||
+|T6|Upload & Share|||
 
 
 
