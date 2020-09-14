@@ -6,17 +6,14 @@ The [template is available here](module_template.md) and is available to reate n
 
 ## 2020 Modules
 
-### Module 1
-[Module 1 - Pre-digitization Curation (Staging)](module_1.md)
-
 ### Module 0
 no link available
 
 ### Module 1
-no link available
+[Module 1 - Pre-digitization Curation (Staging)](module_1A.md)
 
 ### Module 2
-no link available
+[Module 2A - Initiating a Digitization Project](module_2A.md)
 
 ### Module 3
 no link available
