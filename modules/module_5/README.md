@@ -8,9 +8,13 @@ Project management, planning
 
 ## Submodules
 [Module 5A](module_5A.md)
+
 [Module 5B](module_5B.md)
+
 [Module 5C](module_5C.md)
+
 [Module 5D](module_5D.md)
+
 [Module 5E](module_5E.md)
 
 
