@@ -24,8 +24,6 @@ no link available
 ### Module 5
 [Module 5 - Value-added](module_5/)
 
-### Module 6
-no link available
 
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
