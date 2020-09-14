@@ -9,7 +9,7 @@ pre-digitization, transcription, metadata
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Gather representative specimens that will be digitized| Make sure to include examples of specimens that have very little data all the way up to very large amounts of data. Typically this will include very old specimens (data-poor) and very new specimens (data-rich).| Links to resources  Links to workflows  Links to controlled vocabularies|
+|T1| Gather representative specimens that will be digitized| Make sure to include examples of specimens that have very little data all the way up to very large amounts of data. Typically this will include very old specimens (data-poor) and very new specimens (data-rich).||
 |T2|Identify typical fields that are included on labels associated with specimens| Generally, these fall into "Collecting event", "Determination", and "Other".||
 |T3|Identify typical fields that need to be recorded that are implied by the specimen.|This includes fields like how the specimen is prepared, number of specimens, disposition, where the specimen is deposited, etc ...||
 |T4|Decide upon format, names, and controlled vocabulary of these fields|This includes deciding whether to include verbatim transcription as separate fields, whether to split out certain fields like date, time, as multiple fields, etc ...|[Darwin-Core](https://dwc.tdwg.org/terms/)|
@@ -17,7 +17,7 @@ pre-digitization, transcription, metadata
 |T6|Decide what metadata will be captured related to images|Consider following best practices of image metadata. Generally this includes things like who captured images, who edited images, when the images were captured, what project they are related to|[Dublin-Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)|
 |T7|Gather associated para-collection materials|Find and include in your analysis any para-collection materials including field books, accession books, non-digital photographs, legacy databases.||
 |T8|Identify typical fields in these materials not included on labels or implied by specimen|Expand your field analysis to include these fields.||
-|T9|Repeat tasks T4-T6 for para-collections data|Again, evaluate if images need to be taken, and what metadata to capture for such images.|[Darwin-Core](https://dwc.tdwg.org/terms/)[Dublin-Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)|
+|T9|Repeat tasks T4-T6 for para-collections data|Again, evaluate if images need to be taken, and what metadata to capture for such images.|[Darwin-Core](https://dwc.tdwg.org/terms/) [Dublin-Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)|
 
 
 ## Essential Training: 
