@@ -8,8 +8,11 @@ Project management, planning
 
 ## Submodules
 [Module 3A](module_3A.md)
+
 [Module 3B](module_3B.md)
+
 [Module 3C](module_3C.md)
+
 [Module 3D](module_3D.md)
 
 ## Super-Module Deliverables and Data Generated
