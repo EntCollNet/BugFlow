@@ -22,6 +22,8 @@ As the modules are developed, examples of workflows containing incorporating the
 ## Entomological Collections Best-Practices
 Several members of the BugFlow project have joined with other individuals from the entomological collections community to work on entomology-related Best Practices for the SPNHC wiki, see: [SPNHC Best Practices](https://spnhc.biowikifarm.net/wiki/Category:Best_Practices).  Contact anyone from BugFlow to get connected with that project.
 
+#  
+
 
 ### 2013 Digitization workflow elements
 These are the things that are important for creating a useful digitization workflow.  Specimens, labels, images, and most importantly well-identified beetles.
