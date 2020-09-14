@@ -1,4 +1,4 @@
-# Super-Module 1: Pre-digitization
+# Super-Module 1: Project Management
 
 ## Super-Module Purpose:
 This module consists of six submodules pertaining to project management tasks.
