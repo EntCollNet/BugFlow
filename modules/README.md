@@ -10,19 +10,19 @@ The [template is available here](module_template.md) and is available to reate n
 no link available
 
 ### Module 1
-[Module 1 - Pre-digitization Curation (Staging)](module_1A.md)
+[Module 1 - Pre-digitization Curation (Staging)](module_1/)
 
 ### Module 2
-[Module 2A - Initiating a Digitization Project](module_2A.md)
+[Module 2 - Project Management](module_2/)
 
 ### Module 3
-no link available
+[Module 2 - Label Data](module_3/)
 
 ### Module 4
-[Module 4A - Data capture from specimen](module_4A.md)
+[Module 4 - Imaging](module_4/)
 
 ### Module 5
-no link available
+[Module 5 - Value-added](module_5/)
 
 ### Module 6
 no link available
