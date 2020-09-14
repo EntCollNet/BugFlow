@@ -1,10 +1,10 @@
 # Module 1A: Inventory and Taxonomy Update (Pre-digitization) 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module outlines the process of assembling and and updating a species-level inventory for a collection prior to specimen-level digitization. It includes the process of re-curating the specimens and transfer to archival storage in preparation for digitization. Key pieces of data to be acquired by this workflow include: Current Species Name and Higher Classification, Specimen Count, Biogeographic Region, Storage Location.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+Recuration; Precuration; Taxonomic Changes
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
@@ -29,7 +29,7 @@ Define metrics that can be measured to assess success of workflows using this mo
 Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
 
 ## Outreach Opportunities: 
-List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
+List outreach opportunities and that arise in workflows using this module (reference specific TaskIDs).
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
