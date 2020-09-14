@@ -1,4 +1,4 @@
-#Module 1: Pre-digitization
+# Module 1: Pre-digitization
 
 This module consists of five submodules pertaining to pre-digitization tasks.
 
