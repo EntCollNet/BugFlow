@@ -2,4 +2,4 @@
 
 This module consists of five submodules pertaining to pre-digitization tasks.
 
-(Module 1A)[module_1A.md]
+[Module 1A](module_1A.md)
