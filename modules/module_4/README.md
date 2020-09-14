@@ -25,6 +25,8 @@ Project management, planning
 
 [Module 4I](module_4I.md)
 
+[Module 4J](module_4J.md)
+
 ## Super-Module Deliverables and Data Generated
 to-do
 
