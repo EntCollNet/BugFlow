@@ -17,7 +17,7 @@ Project management, planning
 
 [Module 2E](module_2E.md)
 
-[Module 2E](module_2E.md)
+[Module 2F](module_2F.md)
 
 ## Super-Module Deliverables and Data Generated
 to-do
