@@ -1,4 +1,4 @@
-# Super-Module 2: Label Data
+# Super-Module 3: Label Data
 
 ## Super-Module Purpose:
 This module consists of four submodules pertaining to label data tasks.
