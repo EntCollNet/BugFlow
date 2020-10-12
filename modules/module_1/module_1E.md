@@ -1,15 +1,15 @@
 # Module 1E: Collections Profiling 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module will go over how to engage in collections profiling, also known as standardized collection health assessment, where metadata is gathered about containers and specimens in those containers to create a picture of the collection and its health as a whole. Data typically gathered includes conservation status, processing state, container condition, label(s) condition, identification level, arrangement level, data quality, computerization level, & estimated number of specimens. This can be combined/done concurrently with [Module 1A: Inventory and Taxonomy Update](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_1/module_1A.md).
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+pre-digitization, collection health, containers, conservation, levels
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
+|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| [Profiling paper](https://www.researchgate.net/publication/233379544_Profiling_natural_history_collections_A_method_for_quantitative_and_comparative_health_assessment)  Links to workflows  Links to controlled vocabularies|
 |T2||||
 |T3||||
 |T4||||
@@ -19,8 +19,6 @@ Five or six keywords that make searching easier
 |T8||||
 |T9||||
 |T10||||
-
-
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
