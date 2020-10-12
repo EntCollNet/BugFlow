@@ -1,10 +1,10 @@
 # Module 3B: Indirect Data Capture from Image of Specimen or Label 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is intended for capturing the primary label data from an image of a specimen and/or label.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+transcription, image, label, specimen, data capture
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
