@@ -9,7 +9,7 @@ Recuration; Precuration; Taxonomic Changes
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
+|T1| This is task one|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
 |T2|The second task|This is the second task and here is the explanation|See the following links|
 |T3||||
 |T4||||
