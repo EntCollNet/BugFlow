@@ -1,10 +1,10 @@
-# Module 3C: Data Capture and Creation of Collection Events (Locality Records from Labels or Field Books) 
+# Module 3C: Label data parsing
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is for taking data from a verbatim transcribed state into "parsed" label data, where individual text strings from verbatim label data are "parsed" into useful data concepts such as collector, date, locality, determiner, etc ...
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+labels, determination, collecting event, organization, locality, transcription
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
