@@ -1,10 +1,10 @@
 # Module 5E: Capturing and Creating Biological Relationships
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module outlines how to create and capture data encoded in labels as sematically rich biological relationships such as "parasite of" or "host to" or "pollinator of". 
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+value-added, parsing, label data, transcription, relationship
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
