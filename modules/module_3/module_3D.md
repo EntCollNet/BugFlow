@@ -1,10 +1,10 @@
 # Module 3D: Label Imaging
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is for imaging labels attached to specimens that can be detached from the specimen (e.g. wet, pinned, envelope, but not slide labels)
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+imaging, metadata, label data, low-resolution
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
