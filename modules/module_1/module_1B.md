@@ -1,10 +1,10 @@
 # Module 1B - Whole Drawer Digitization
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is for digitizing an entire pinned insect drawer at once, generally without individual specimen data capture.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+Pre-digitization, imaging, whole-drawer, stiching, curation
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
