@@ -1,10 +1,10 @@
 # Module 4F: Slide Label/low-res Imaging
 
 ## Module Purpose: 
-Use this module to image slide labels. 
+Use this module to image slide labels (and usually the associated slide-mounted specimen) at high enough resolution that the labels can be transcribed and read without difficulty, and the number of specimens can be counted. 
 
 ## Module Keywords: 
-slide, imaging, low-res
+slide, imaging, low-resolution, labels
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
