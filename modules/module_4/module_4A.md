@@ -1,10 +1,10 @@
 # Module 4A: Pinned 2D photo-stacked specimen imaging
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is for imaging pinned specimens using focus-stacking or other flat photography methods that create a high-resultion, in-focus image of the entire specimen that is mounted on a pin, point, or card. 
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+imaging, pinned, high-resolution, photography, focus-stacking
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
