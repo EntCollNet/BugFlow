@@ -1,10 +1,10 @@
 # Module 5B: Georeferencing Entomological Localities
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module outlines what to consider when georeferencing entomological localities.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+georeferencing, gazetteer, geography, latitude, longitude, entomology, locality, value-added
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
