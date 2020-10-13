@@ -23,12 +23,12 @@ quality assurance, quality control, QA / QC, script, data quality, error trackin
 
 
 ## Essential Training: 
-Define metrics that can be measured to assess success of workflows using this module
-(DP I would add digitzation rate (e.g. number of specimens or drawers or ... per day/month/person)
-(DP Perhaps capture damage assessment here, e.g. specimens damaged in process, or specimens found to be damaged and in need of attention)
-(DP Capture lessons learned?)
-(DP Capture method used to gather / and store these data. A form? the database? automated or manual?)
-(DP Capture cost information if possible -- refer to recent paper/s published by DiSSCo)
+Define metrics that can be measured to assess success of workflows using this module  
+- (DP I would add digitzation rate (e.g. number of specimens or drawers or ... per day/month/person)  
+- (DP Perhaps capture damage assessment here, e.g. specimens damaged in process, or specimens found to be damaged and in need of attention)  
+- (DP Capture lessons learned?)  
+- (DP Capture method used to gather / and store these data. A form? the database? automated or manual?)  
+- (DP Capture cost information if possible -- refer to recent paper/s published by DiSSCo)  
 
 ## Module Metrics, Costing, and Reporting: 
 Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
