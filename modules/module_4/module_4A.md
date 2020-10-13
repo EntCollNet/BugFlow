@@ -9,18 +9,21 @@ imaging, pinned, high-resolution, photography, focus-stacking
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
-|T3||||
-|T4||||
-|T5||||
-|T6||||
-|T7||||
-|T8||||
-|T9||||
-|T10||||
-
-
+|T1| Select and transport affected drawer(s) to proximity of imaging station.|The workflow outlined for this module integrates steps for specimen imaging, whether for all specimens or exemplar specimens.| Institutional imaging policy.  For further information on imaging guidelines and standards, see [iDigBio](https://www.idigbio.org/content/idigbio-image-file-format-requirements-and-recommendations).|
+|T2|Set aside damaged specimens for conservation workflow.|Re-route specimen to conservation workflow per conservation policy. Whether to image before conservation might depend upon the severity of the damage.  Also see [Module 2A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_2/module_2A.md)|Institutional conservation policy.|
+|T3|Select and remove (exemplar) specimens from unit tray or drawer.|Exemplar specimens may be selected here or during pre-digitization curation [Module 2A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_2/module_2A.md) or [Module 1A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_1/module_1A.md)||
+|T4|Un-pin label(s).|Remove all labels from specimen, maintaining or recording their sequence.|Forceps for removing labels. See SPNHC newsletter 26(2):18 [Link](http://www.spnhc.org/media/assets/September2012final.pdf) (members only).|
+|T5|Clean specimen in preparation for imaging.|As necessary|Cleaning tools, Institutional guidelines.|
+|T6|Associate the catalog number barcode label with the specimen, if not already completed.|If specimens have the catalog number associated during an individual specimen handling and imaging process, it happens here.||
+|T7|Arrange label(s) (including any additional new labels produced as part of digitization activities) and specimen on stage or other apparatus.|Additional labels will depend on imaging purpose, e.g. project designation, date image taken, unique identifier label if not already present, etc.|Specimen or label stage or holding apparatus.|
+|T8|Insert color control standard or checker within image frame.|Color control standard or checker can be affixed to a stage, fixture, or other apparatus.|See: [http://ecnweb.org/sites/default/files/12_Eastwood_2010.pdf](http://ecnweb.org/sites/default/files/12_Eastwood_2010.pdf).|
+|T9|Adjust lighting, white balance, distance from specimen, and/or other camera settings.|Lighting, white balance, ISO, and other camera and peripheral equipment settings can be set or confirmed only once per imaging session, depending upon institutional protocol and based on consistency in size and coloration of the photographic subjects being recorded. Hence, this task may be accomplished for an entire imaging session as an independent step prior to T1.|Institutional Imaging Policy|
+|T10|Auto- or manually focus camera and record image of specimen, associated labels, and machine readable unit tray label with current identification, when the latter is available.|This task may be a single or iterative process (T10). Workflows in which focus stacking is used require recording multiple images at various focal points, the set of images to be stacked and processed immediately or in a subsequent task.  Some institutions record independent images of dorsal and ventral views and labels and construct a single composite image from them.||
+|T11|Repeat T10 for as many views as are necessary for the project in question.|During [Module 1A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_1/module_1A.md) it is best to decide on what views are necessary for the digitization imaging project. This typically includes dorsal, lateral, ventral, and/or frontal views of the specimen, but varies by taxon and project scope.||
+|T12|Re-pin removed and any additional labels, including a unique identifier label as necessary.|The insertion of unique identifier labels might also occur in Pre-digitization curation, or T6.|Institutional imaging policy.|
+|T13|Scan barcode value into database to create a provisional specimen or locality/collecting event record, and/or directly into image metadata, as appropriate.|Scanning barcode values into database provisional records might also be accomplished at data capture time, especially for institutions that restrict imaging to exemplar specimens.||
+|T14|Re-insert specimen into unit tray or drawer, and re-insert unit tray into drawer.|||
+|T15|Return drawers to cabinets and reposition or edit progress markers.|||
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
