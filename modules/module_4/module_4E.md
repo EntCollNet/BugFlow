@@ -1,10 +1,10 @@
 # Module 4E: Slide photo-stacked hi-res imaging
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module shows how to create a high-resolution image of a slide-mounted specimen using focus-stacking or other high-resolution technology that creates a crisp, clear image of the specimen(s) mounted on that slide at a resolution high enough to see the majority of the deatures needed for identification. 
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+imaging, focus-stacking, high-resolution, slides
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
