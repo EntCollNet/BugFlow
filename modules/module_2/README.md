@@ -7,17 +7,17 @@ This module consists of six submodules pertaining to project management tasks.
 Project management, planning
 
 ## Submodules
-[Module 2A](module_2A.md)
+[Module 2A - Initiating a Digitization Project](module_2A.md)
 
-[Module 2B](module_2B.md)
+[Module 2B - Workflow Metadata](module_2B.md)
 
-[Module 2C](module_2C.md)
+[Module 2C - Quality Control](module_2C.md)
 
-[Module 2D](module_2D.md)
+[Module 2D - In-house Data Cleanup](module_2D.md)
 
-[Module 2E](module_2E.md)
+[Module 2E - Community Data Cleanup](module_2E.md)
 
-[Module 2F](module_2F.md)
+[Module 2F - Disseminating Data](module_2F.md)
 
 ## Super-Module Deliverables and Data Generated
 to-do
