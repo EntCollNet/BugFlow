@@ -1,10 +1,10 @@
 # Module 2D: Community Data Cleanup 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This modules outlines procedures for using community-sourced data cleaning tools to push and pull information about data quality for digitized specimens. 
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+Project management, planning, crowd-sourcing, data quality
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
