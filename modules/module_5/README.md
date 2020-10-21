@@ -1,10 +1,10 @@
-# Super-Module 5: Value Added
+# Super-Module 5: Extended Specimen
 
 ## Super-Module Purpose:
-This module consists of five submodules pertaining to value added tasks.
+This module consists of five submodules pertaining to the idea of the "Extended Specimen" and their associated tasks.[To-Do] add link to concept of Extended specimen
 
 ## Super-Module Keywords:
-Project management, planning
+Project management, planning, value-added
 
 ## Submodules
 [Module 5A: Data Enhancements](module_5A.md)
