@@ -11,7 +11,7 @@ Project management, planning, value-added
 
 [Module 5B: Georeferencing Entomological Localities](module_5B.md)
 
-[Module 5C: Capture of Frozen Tissue Collections and associated Genetic Data](module_5C.md)
+[Module 5C: Linkage of specimen records to associated Genetic Data](module_5C.md)
 
 [Module 5D: Storing and Attaching Permits](module_5D.md)
 
