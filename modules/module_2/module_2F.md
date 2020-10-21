@@ -1,24 +1,19 @@
 # Module 2F: Workflow Metadata
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is designed to gather and make available metadata for the digitization workflows designed and utilized by a collection.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+authorship, attribution, reusability
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
-|T3||||
-|T4||||
-|T5||||
-|T6||||
-|T7||||
-|T8||||
-|T9||||
-|T10||||
+|T1| Identify workflow(s) to annotate|Find the relevant workflows, modules, or subsets of those that need metadata augmentation.| |
+|T2|Identify desired metadata components|Workflows should have some basic associated metadata such as author(s), version, date updated, etc. Consider what other metadata are important such as funding sources, keywords, costs, etc that might be useful for yourself or future adopters of the workflow.||
+|T3|Define controlled terms|Make a controled list of terms and data to capture about your workflows to be consistent across them all.||
+|T4|Incorporate metadata and make them findable|Fill out the standardized metadata for your workflow(s). Make sure the metadata are easily discoverable, either on the top of static PDFs and word documents, or appropriately linked to online resources. ||
+
 
 
 
