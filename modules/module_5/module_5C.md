@@ -1,24 +1,19 @@
-# Module 5C: Capture of Frozen Tissue Collections and associated Genetic Data
+# Module 5C: Capture and linkage of specimens to associated Genetic Data
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module covers linking molecular data with the digital occurrence record for the specimen they were derived from.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+DNA, extended specimen, interoperability, data capture
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
-|T3||||
-|T4||||
-|T5||||
-|T6||||
-|T7||||
-|T8||||
-|T9||||
-|T10||||
+|T1|Identify genetic data to link|Gather sequence data as text or files locally or generate a list of relevant externaly hosted genetic data and the occurrence records for the sample they are derived from within your collection management system||
+|T2|Import/upload local genetic data|Upload sequence data or files to online repository or to your collection management system.|[http://boldsystems.org/] [https://www.ncbi.nlm.nih.gov/genbank/] [https://www.ncbi.nlm.nih.gov/sra]|
+|T3|Link external data repositories to specimen occurrence record|Using the catalog number and an occurrence GUID or persistent URL, annotate the data upload to be referenceable to the record of the specimen in your collection management system.||
+|T4|Link specimen occurrence record to external data repositories|Add link to persistent URL or GUID and record ID for the genetic data housed in the external repositories.||
+
 
 
 
