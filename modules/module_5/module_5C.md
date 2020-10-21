@@ -1,4 +1,4 @@
-# Module 5C: Capture and linkage of specimens to associated Genetic Data
+# Module 5C: Linkage of specimen records to associated Genetic Data
 
 ## Module Purpose: 
 This module covers linking molecular data with the digital occurrence record for the specimen they were derived from.
