@@ -9,7 +9,7 @@ georeferencing, gazetteer, geography, latitude, longitude, entomology, locality,
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
+|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| [GBIF Georeferencing Best Practices](https://docs.gbif-uat.org/georeferencing-best-practices/1.0/en/)  Links to workflows  Links to controlled vocabularies|
 |T2||||
 |T3||||
 |T4||||
