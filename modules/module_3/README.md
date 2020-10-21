@@ -7,13 +7,13 @@ This module consists of four submodules pertaining to label data tasks.
 Project management, planning
 
 ## Submodules
-[Module 3A](module_3A.md)
+[Module 3A - Direct Label Transcription](module_3A.md)
 
-[Module 3B](module_3B.md)
+[Module 3B - Indirect Data Capture from Image of Specimen or Label](module_3B.md)
 
-[Module 3C](module_3C.md)
+[Module 3C - Label data parsing](module_3C.md)
 
-[Module 3D](module_3D.md)
+[Module 3D - Label Imaging](module_3D.md)
 
 ## Super-Module Deliverables and Data Generated
 to-do
