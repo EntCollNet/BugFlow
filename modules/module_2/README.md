@@ -9,15 +9,15 @@ Project management, planning
 ## Submodules
 [Module 2A: Initiating a Digitization Project](module_2A.md)
 
-[Module 2B: Workflow Metadata](module_2B.md)
+[Module 2B: Quality Control](module_2B.md)
 
-[Module 2C: Quality Control](module_2C.md)
+[Module 2C: In-house data cleanup](module_2C.md)
 
-[Module 2D: In-house Data Cleanup](module_2D.md)
+[Module 2D: Community Data Cleanup](module_2D.md)
 
-[Module 2E: Community Data Cleanup](module_2E.md)
+[Module 2E: Disseminating Data](module_2E.md)
 
-[Module 2F: Disseminating Data](module_2F.md)
+[Module 2F: Workflow Metadata](module_2F.md)
 
 ## Super-Module Deliverables and Data Generated
 to-do
