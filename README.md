@@ -9,7 +9,7 @@ Understanding _why_ we digitize our collections objects drives the elements of a
 
 ## Get involved with BugFlow!
 ### BugFlow on Slack
-We work together, develop ideas, and stay in touch on the [BugFlow Slack](bugflowentomo-ubc1601.slack.com), we would love to have you join us.
+We work together, develop ideas, and stay in touch on the [BugFlow Slack](https://bugflowentomo-ubc1601.slack.com), we would love to have you join us.
 ### Collaborate on building modules and workflows
 We are always looking to grow our team of contributors and value community feedback.  Join slack or send an email to anymembers of BugFlow to get connected.  Please leave feedback requests and discussion in our [Project Issues tracker](https://github.com/EntCollNet/BugFlow/issues).
 
