@@ -28,7 +28,7 @@ affiliation(s)
 email
 affiliation(s)
 #### Andrew Johnston
-ajohnston@asu.edu
+ajohnston@asu.edu  
 Biodiversity Knowledge Integration Center and NEON Biorepository, Arizona State University, Tempe, AZ, USA
 #### Erica Krimmel
 email
@@ -38,7 +38,7 @@ affiliation(s)
 email
 affiliation(s)
 #### Tommy McElrath
-tcm@illinois.edu
+tcm@illinois.edu  
 Illinois Natural History Survey, Prairie Research Institute, Champaign, IL, USA
 #### Deborah Paul
 email
