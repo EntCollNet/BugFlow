@@ -38,8 +38,8 @@ affiliation(s)
 email
 affiliation(s)
 #### Tommy McElrath
-email
-affiliation(s)
+tcm@illinois.edu
+Illinois Natural History Survey, Prairie Research Institute, Champaign, IL, USA
 #### Deborah Paul
 email
 affiliation(s)
