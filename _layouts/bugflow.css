@@ -1,0 +1,80 @@
+/* Modify styles within this file to override styles within base Cayman template 
+ * 
+ **/
+
+#header a{
+
+}
+
+#header a:hover{
+
+}
+
+#middleleft{
+}
+
+#middleleftnomenu{
+}
+
+#middlecenter{
+	padding:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+#middleright{
+}
+
+#footer{
+}
+
+/*Central div in the middle center table div */
+#innertext{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	background-color:#f8f8f8;
+}
+
+#innertext a{
+
+}
+#innertext a:hover{
+
+}
+
+div.navpath {
+}
+
+/* Image thumbnails   */
+div.tndiv{
+
+}
+
+div.tnimg{
+
+}
+
+div.tnimg a{
+
+}
+
+div.tnimg img{
+
+}	
+
+/*Misc general items*/
+table{
+
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
