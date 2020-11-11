@@ -21,7 +21,7 @@ affiliation(s)
 #### Chris Grinter
 email
 affiliation(s)
-#### Rachel hawkins Sipe
+#### Rachel Hawkins Sipe
 email
 affiliation(s)
 #### Pam Horsley
