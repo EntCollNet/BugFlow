@@ -28,8 +28,8 @@ affiliation(s)
 email
 affiliation(s)
 #### Andrew Johnston
-email
-affiliation(s)
+ajohnston@asu.edu
+Biodiversity Knowledge Integration Center and NEON Biorepository, Arizona State University, Tempe, AZ, USA
 #### Erica Krimmel
 email
 affiliation(s)
