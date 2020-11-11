@@ -1,11 +1,9 @@
-# Bug Flow
+# BugFlow
 Bug flow is a community resource for developing and sharing entomological collection digitization workflows and modules.
 
-## Digitization in context
-Understanding _why_ we digitize our collections objects drives the elements of a successful workflow.  We digitize our collections for three broad reasons:
-- our own internal uses of collections management, 
-- intra-community access to collections data without requiring an in-person visit
-- mobilize and make available collections data to external research, policy, and education initiatives
+## About BugFlow
+See the [About BugFlow](about_us.md) page to learn about our history and project members.
+
 
 ## Get involved with BugFlow!
 ### BugFlow on Slack
@@ -14,9 +12,9 @@ We work together, develop ideas, and stay in touch on the [BugFlow Slack](https:
 We are always looking to grow our team of contributors and value community feedback.  Join slack or send an email to anymembers of BugFlow to get connected.  Please leave feedback requests and discussion in our [Project Issues tracker](https://github.com/EntCollNet/BugFlow/issues).
 
 
-## 2020 Modules
-Modules are still being developed within this repository, but all in-progress documents are available here:
-[See current module progress](modules/)
+## BugFlow Modules
+The primary output of BigFlow is a set of modules that contain outline the tasks and resourses needed to create digitization workflows for entomological collections. They are actively being developed within this repository, and are available here:
+### [Current BugFlow Modules](modules/)
 
 To see issues and tasks still pending, please see the github repository issues located here:
 [BugFlow Issues](https://github.com/EntCollNet/BugFlow/issues)
@@ -55,6 +53,12 @@ These are the things that are important for creating a useful digitization workf
 ##### Module 5 Quality Assurance Tasks
 [iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_5_Pinned_Things.pdf)
 
+
+## Digitization in context
+Understanding _why_ we digitize our collections objects drives the elements of a successful workflow.  We digitize our collections for three broad reasons:
+- our own internal uses of collections management, 
+- intra-community access to collections data without requiring an in-person visit
+- mobilize and make available collections data to external research, policy, and education initiatives
 
 
 # See public page here [Bug Flow](https://entcollnet.github.io/BugFlow/)
