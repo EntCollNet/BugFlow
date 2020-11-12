@@ -22,7 +22,7 @@
   <body>
     <!-- skipping this top-of-page link <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
-    <div style="display:block;width:100%;height:250px;padding-top:50px;padding-bottom:50px;">
+    <div style="display:block;width:100%;height:250px;padding-top:35px;padding-bottom:50px;">
       <div style="display:block;width:30%;min-width:170px;max-height:245;float:left;padding: 2px;padding-left:35px;vertical-align:center;align:center;">
 
         <img style="display:block; margin-left:auto; margin-right:auto;width:90%;max-width: 250px;" alt="BugFlow Logo" src="https://raw.githubusercontent.com/EntCollNet/BugFlow/master/_layouts/BugFlow_logo.png">
@@ -33,8 +33,8 @@
       <h2 style="font-size:20px; color:#159957;margin:10px">a community resource for entomological collection digitization</h2>      
     </div>
     
-       <div style="display:block;float:center;padding: 7px;vertical-align:center;">
-        <img width="150" alt="iDigBio logo" src="https://www.idigbio.org/sites/default/files/idigbio_logo_0.png"><img width="150" alt="Entomological Collections Network Logo" src="https://raw.githubusercontent.com/EntCollNet/BugFlow/master/_layouts/ECNlogo.jpg">
+      <div height="25px" style="clear:both;">
+        <a href="https://entcollnet.github.io/BugFlow/">BugFlow Main Page</a> <a href="https://github.com/EntCollNet/BugFlow" style="padding-left:10px;">View on GitHub</a> 
       </div>
     
     <header class="page-header" role="banner" style="padding:0px 0px; height:15px; max-height:15px;">
@@ -58,15 +58,15 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <div height="25px" style="clear:both;">
-        <a href="https://entcollnet.github.io/BugFlow/">BugFlow Main Page</a> <a href="https://github.com/EntCollNet/BugFlow" style="padding-left:10px;">View on GitHub</a> 
-      </div>
+
       {{ content }}
 
       <footer class="site-footer">
         <span class="site-footer-credits"> <a href="https://entcollnet.github.io/BugFlow/">Return to BugFlow Main Page</a>.</span>
         <br>
-
+       <div style="display:block;float:center;padding: 7px;vertical-align:center;">
+        <img width="150" alt="iDigBio logo" src="https://www.idigbio.org/sites/default/files/idigbio_logo_0.png"><img width="150" alt="Entomological Collections Network Logo" src="https://raw.githubusercontent.com/EntCollNet/BugFlow/master/_layouts/ECNlogo.jpg">
+      </div>
         
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
