@@ -1,5 +1,5 @@
 # Module overview
-Modules currently being updated during 2020, more documentation to come.
+Modules are currently being updated.  The following map shows how the modules relate to each other and might fit into a collection-specific set of workflows.
 
 ![Map of digitization modules](https://raw.githubusercontent.com/EntCollNet/BugFlow/master/modules/module_map.png)
 
