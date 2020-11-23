@@ -1,10 +1,12 @@
 # Module 4I: Wet Soup Low-res Imaging 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+What is this module for? What data will be gathered? 
+Imaging workflow for bulk entomology samples (referered to as 'insect soups'), which are often uncurated bulk samples in natural history collections
 
 ## Module Keywords: 
 Five or six keywords that make searching easier
+Insect soups, bulk samples, malaise traps, pan traps, yellow pan, 
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
