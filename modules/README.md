@@ -1,6 +1,7 @@
 # Module overview
 Modules currently being updated during 2020, more documentation to come.
 
+![Map of digitization modules](https://raw.githubusercontent.com/EntCollNet/BugFlow/master/modules/module_map.png)
 
 
 ## 2020 Modules
