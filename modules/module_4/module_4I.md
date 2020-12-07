@@ -17,13 +17,13 @@ Wet insect soup, bulk samples, malaise traps, pan traps, yellow pan, pitfall
 |T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
 |T2|Affix labels to rows, cabinets, and/or drawers to facilitate progress tracking.|||
 |T3|Pre-image, curation tasks -	clean soup -	sort soup|Decide on level of cleaning to remove contaminants (ie. Lepidoptera scales.)Is ethanol dirty and need to change?Is the sample clean enough to produce reasonable images?Sort raw soup or not.||
-|T4|Eventide to the bulk sample |Assign an eventide to the bulk sample (if not already?)Links between core and extension records are made using an event identifier (eventID) data element in the database.||
+|T4|Eventide to the bulk sample |Assign an eventide to the bulk sample (if not already?)Links between core and extension records are made using an event identifier (eventID) data element in the database.|sampling-event extension of the Darwin Core standard https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData |
 |T5|Labels attached to subsamples|Label database/accession numbers to any subsamples. Re-organise any storage for subsamples||
 |T6|Define outcome of image|Decide on any characteristics of soup that may determine workflow of capturing images ie. image all large specimens soups with larger lens vs smaller specimen sized soups with different lens||
 |T7|Remove soup sample from container|Spooning, tip or pipette soup sample out of vials or jar into petri dish or any tray for holding the soup and ethanol||
 |T8|Arrange soup ready for imaging|Place soups labels and scale bar in image ||
 |T9|Capture image|Taken photo of soup sample||
-|T10|Save image|Save image with appropriate naming file decided for all soup samples||
+|T10|Save image|Save image with appropriate naming file decided for all soup samples|Controlled vocabularies for tagging?|
 |T11|Add metadata to image|Add any information to be captured with the image. Aids in further image tagging||
 |T12|Re-assemble soup sample into container|Spooning, or pipette soup sample back into vials/ jar. Include soup samples labels ||
 |T13|Image tagging|????||
