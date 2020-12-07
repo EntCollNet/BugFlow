@@ -33,6 +33,15 @@ Define metrics that can be measured to assess success of workflows using this mo
 ## Module Metrics, Costing, and Reporting: 
 Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
 
+Collection Management costings:
+
+Imaging of soups is potentially resource hungry activity which can impact significantly on collection management practices. There are a number of issues that should be considered before proceeding with an imaging program regardless of how big or small such a program may be. The collection management overheads of imaging raw soups makes it impractical but not impossible.
+
+Each collection will have its own resource limitations and priorities for collection management which will determine how they approach imaging soups, if at all.
+Handling of soups pre and post imaging are the most time-consuming steps. However, both have considerable scope for fine tuning to make them more efficient within the boundaries set by collection management priorities. 
+Where resources allow, sorting soups to ordinal level before imaging has significant benefits for both collection management and image capture and management. Nevertheless, imaging of raw soups is still feasible and worth doing.
+
+
 ## Outreach Opportunities: 
 List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
 
