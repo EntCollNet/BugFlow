@@ -15,17 +15,23 @@ Wet insect soup, bulk samples, malaise traps, pan traps, yellow pan, pitfall
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
 |T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
-|T3||||
-|T4||||
-|T5||||
-|T6||||
-|T7||||
-|T8||||
-|T9||||
-|T10||||
-
-
+|T2|Affix labels to rows, cabinets, and/or drawers to facilitate progress tracking.|||
+|T3|Pre-image, curation tasks -	clean soup -	sort soup
+|||
+|T4|Eventide to the bulk sample |||
+|T5|Labels attached to subsamples|||
+|T6|Define outcome of image|||
+|T7|Remove soup sample from container|||
+|T8|Arrange soup ready for imaging|||
+|T9|Capture image|||
+|T10|Save image|||
+|T11|Add metadata to image|||
+|T12|Re-assemble soup sample into container|||
+|T13|Image tagging|||
+|T14|Loan request – post workflow|||
+|T15|Re-image of soup|||
+|T16|Updating of images online|||
+|T17||||
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
