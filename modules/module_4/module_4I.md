@@ -16,10 +16,7 @@ Wet insect soup, bulk samples, malaise traps, pan traps, yellow pan, pitfall
 |--------|-----------|---------------------------|-----------|
 |T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
 |T2|Affix labels to rows, cabinets, and/or drawers to facilitate progress tracking.|||
-|T3|Pre-image, curation tasks -	clean soup -	sort soup|Decide on level of cleaning to remove contaminants (ie. Lepidoptera scales.)
-Is ethanol dirty and need to change?
-Is the sample clean enough to produce reasonable images?
-Sort raw soup or not.||
+|T3|Pre-image, curation tasks -	clean soup -	sort soup|Decide on level of cleaning to remove contaminants (ie. Lepidoptera scales.)Is ethanol dirty and need to change?Is the sample clean enough to produce reasonable images?Sort raw soup or not.||
 |T4|Eventide to the bulk sample |Assign an eventide to the bulk sample (if not already?)  
 Links between core and extension records are made using an event identifier (eventID) data element in the database.||
 |T5|Labels attached to subsamples|Label database/accession numbers to any subsamples. Re-organise any storage for subsamples||
