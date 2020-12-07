@@ -16,8 +16,8 @@ affiliation(s)
 email
 affiliation(s)
 #### Nicole Fisher
-email
-affiliation(s)
+nicole.fisher@csiro.au
+Natural Research Collections of Australia (CSIRO Collections), CSIRO, Canberra, Australia
 #### Chris Grinter
 email
 affiliation(s)
