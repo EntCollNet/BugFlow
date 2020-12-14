@@ -1,13 +1,13 @@
 ---
 name: Module Template Creator
-about: Describe this issue template's purpose here.
-title: ''
+about: For creating Master Issues for each Module
+title: MODULE NAME [1st Draft Completion List]
 labels: ''
 assignees: ''
 
 ---
 
-[Module Link](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_1/module_1A.md)
+[Module Link](LINK HERE)
 - [ ] Title created
 - [ ] Purpose created
 - [ ] Keywords created
