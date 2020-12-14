@@ -1,7 +1,7 @@
 # Module 4H: Dry Bulk Low-res Imaging 
 
 ## Module Purpose: 
-Capturing non-stacked images of dried bulk materials. This workflow has specifically been designed for the CAS "flats", which are collected insects stored at room temperature in cardboard boxes. Similar workflows can be adapted for pill-boxes, trays, etc.
+Capturing non-stacked images of dried bulk materials. This workflow has specifically been designed for the CAS "flats", which are unpinned bulk samples. Image resolution is not usually sufficient for relaible identification, but allows for quick browsing through collections. Similar workflows can be adapted for pill-boxes, trays, vials, etc.
 ## Module Keywords: 
 bulk, bycatch, imaging, dry
 
