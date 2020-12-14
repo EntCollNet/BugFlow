@@ -10,30 +10,26 @@ Wet insect soup, bulk samples, malaise traps, pan traps, yellow pan, pitfall, im
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2|Affix labels to rows, cabinets, and/or drawers to facilitate progress tracking.|||
-|T3|Pre-image, curation tasks -	clean soup -	sort soup|Decide on level of cleaning to remove contaminants (ie. Lepidoptera scales.)Is ethanol dirty and need to change?Is the sample clean enough to produce reasonable images?Sort raw soup or not.||
-|T4|Eventide to the bulk sample |Assign an eventide to the bulk sample (if not already?)Links between core and extension records are made using an event identifier (eventID) data element in the database.|sampling-event extension of the Darwin Core standard https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData |
-|T5|Labels attached to subsamples|Label database/accession numbers to any subsamples. Re-organise any storage for subsamples||
-|T6|Define outcome of image|Decide on any characteristics of soup that may determine workflow of capturing images ie. image all large specimens soups with larger lens vs smaller specimen sized soups with different lens||
-|T7|Remove soup sample from container|Spooning, tip or pipette soup sample out of vials or jar into petri dish or any tray for holding the soup and ethanol||
-|T8|Arrange soup ready for imaging|Place soups labels and scale bar in image ||
-|T9|Capture image|Taken photo of soup sample||
-|T10|Save image|Save image with appropriate naming file decided for all soup samples|Controlled vocabularies for tagging?|
-|T11|Add metadata to image|Add any information to be captured with the image. Aids in further image tagging||
-|T12|Re-assemble soup sample into container|Spooning, or pipette soup sample back into vials/ jar. Include soup samples labels ||
-|T13|Image tagging|????||
-|T14|Loan request – post workflow|Soup image needs to be tagged to indicate removal of specimen and its new location. Update soup image metadata on web||
-|T15|Re-image of soup|As soup changes over time ie. insects removed (ie. loans and pinned for further examination), re-image the soup?||
-|T16|Updating of images online|Updating images as they have species identified online?||
-|T17||||
+|T1|Affix labels to rows, cabinets, and/or drawers to facilitate progress tracking.|||
+|T2|Pre-image, curation tasks -	clean soup -	sort soup|Decide on level of cleaning to remove contaminants (ie. Lepidoptera scales.)Is ethanol dirty and need to change?Is the sample clean enough to produce reasonable images?Sort raw soup or not.||
+|T3|Eventide to the bulk sample |Assign an eventide to the bulk sample (if not already?)Links between core and extension records are made using an event identifier (eventID) data element in the database.|sampling-event extension of the Darwin Core standard https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData |
+|T4|Labels attached to subsamples|Label database/accession numbers to any subsamples. Re-organise any storage for subsamples||
+|T5|Define outcome of image|Decide on any characteristics of soup that may determine workflow of capturing images ie. image all large specimens soups with larger lens vs smaller specimen sized soups with different lens||
+|T6|Remove soup sample from container|Spooning, tip or pipette soup sample out of vials or jar into petri dish or any tray for holding the soup and ethanol||
+|T7|Arrange soup ready for imaging|Place soups labels and scale bar in image ||
+|T8|Capture image|Taken photo of soup sample||
+|T9|Save image|Save image with appropriate naming file decided for all soup samples|Controlled vocabularies for tagging?|
+|T10|Add metadata to image|Add any information to be captured with the image. Aids in further image tagging||
+|T11|Re-assemble soup sample into container|Spooning, or pipette soup sample back into vials/ jar. Include soup samples labels ||
+|T12|Image tagging|????||
+|T13|Loan request – post workflow|Soup image needs to be tagged to indicate removal of specimen and its new location. Update soup image metadata on web||
+|T14|Re-image of soup|As soup changes over time ie. insects removed (ie. loans and pinned for further examination), re-image the soup?||
+|T15|Updating of images online|Updating images as they have species identified online?||
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
 
 ## Module Metrics, Costing, and Reporting: 
-Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
-
 Collection Management costings:
 
 Imaging of soups is potentially resource hungry activity which can impact significantly on collection management practices. There are a number of issues that should be considered before proceeding with an imaging program regardless of how big or small such a program may be. The collection management overheads of imaging raw soups makes it impractical but not impossible.
@@ -44,15 +40,11 @@ Where resources allow, sorting soups to ordinal level before imaging has signifi
 
 
 ## Outreach Opportunities: 
-List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
-
 Soups represent a largely untapped resource for ecological and taxanomic studies because they are generally only accessed by taxonomic specialists who visit an institution. By imaging the contents of these soups, and any future plans to make them available on the web with appropriate tools, will enable taxonomic researchers to access a searchable library of tagged insect images.
 Online volunteers can identify ordinal diversity and abundance and clip out and tag images of individual specimens for inclusion in a tagged image based search engine for taxon discovery (see publication, Automated Image Analysis on Insect Soups https://doi.org/10.1109/DICTA.2016.7797010). One such site for outreach opportunities using crowdsourcing is: https://insectsoup.australian.museum/
 
 
 ## Exemplar Workflows: 
-List of examplar workflows organized by database type.
-
 Examplar workflow of post-processing of images to tag, sort, classify insects (an automated algorithm for insect soup image segmentation and measurements) : Automated Image Analysis on Insect Soups https://doi.org/10.1109/DICTA.2016.7797010
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
