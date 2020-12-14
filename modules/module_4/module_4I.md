@@ -1,15 +1,11 @@
 # Module 4I: Wet Soup Low-res Imaging 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered? 
-
 This module will look at imaging workflow for bulk entomology samples (referred to as 'wet insect soups').
 Wet insect soups are bulk samples of insects collected at a single location over a period time. Collecting methods vary but include pitfall, malaise, litter etc. Such soups are often collected as part of a study of a particular taxonomic group and/or the insect diversity and abundance of a geographic area. Some are sorted to order, others have some specimens removed, some are totally unsorted.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
-
-Wet insect soup, bulk samples, malaise traps, pan traps, yellow pan, pitfall
+Wet insect soup, bulk samples, malaise traps, pan traps, yellow pan, pitfall, imaging
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
