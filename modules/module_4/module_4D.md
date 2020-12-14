@@ -1,20 +1,20 @@
 # Module 4D: Frozen/tissue imaging
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module will cover imaging workflows for frozen specimens/tissue samples. Frozen samples are generally preserved in -80°C freezers or in Liquid Nitrogen dewars, and might or might not be in ethanol. In order to avoid degradation of DNA and RNA, frozen samples should be kept on ice as much as possible.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+Frozen, molecular, genomic, DNA, RNA
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
-|T3||||
-|T4||||
-|T5||||
-|T6||||
+|T1|Select sample vials and place them on ice |Fill an insulated container with ice prior to removing samples from freezer. Keep samples on ice as much as possible to avoid thawing.| Insulated container (Styrofoam box), ice.|
+|T2|Select one specimen at a time, remove labels if possible|Labels might be attached to cryovials, in this case, removal is not recommended.|Forceps for removing labels.|
+|T3|Photograph labels (or vials with attached labels)|While photographing labels, keep samples on ice.||
+|T4|Remove specimens/tissue from ice|Photograph samples as fast as possible to avoid thawing. Remeber to adjust camera settings before removing samples from ice.||
+|T5|Return specimen/tissue and labels into vial and immediately place them on ice|||
+|T6|Return specimen/tissue vials to freezer or Liquid Nitrogen as soon as possible|||
 |T7||||
 |T8||||
 |T9||||
