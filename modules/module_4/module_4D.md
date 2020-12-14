@@ -15,11 +15,6 @@ Frozen, molecular, genomic, DNA, RNA, Imaging
 |T4|Remove specimens/tissue from ice|Photograph samples as fast as possible to avoid thawing. Remeber to adjust camera settings before removing samples from ice.||
 |T5|Return specimen/tissue and labels into vial and immediately place them on ice|||
 |T6|Return specimen/tissue vials to freezer or Liquid Nitrogen as soon as possible|||
-|T7||||
-|T8||||
-|T9||||
-|T10||||
-
 
 
 ## Essential Training: 
