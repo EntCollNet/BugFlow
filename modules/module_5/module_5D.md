@@ -1,11 +1,10 @@
 # Module 5D: Storing and Attaching Permits 
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is for the storing and attaching of permits to database records. 
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
-
+legislation, law, regulations, compliance, Nagoya, permit tracking 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
