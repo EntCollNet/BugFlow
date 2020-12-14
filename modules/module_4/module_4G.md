@@ -8,7 +8,7 @@ imaging, focus-stacking, high-resolution, ethanol, wet
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  [SOP INHS 4G](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_4/SOP_%20Creating%20new%20images%20of%20vial-preserved%20specimens%20for%20uploading%20into%20TaxonWorks.pdf)  Links to controlled vocabularies|
+|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources Links to workflows  Links to controlled vocabularies|
 |T2||||
 |T3||||
 |T4||||
