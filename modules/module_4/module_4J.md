@@ -1,11 +1,10 @@
 # Module 4J: Image Processing
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+Image processing workflow for setting up and harmonizing edits before Z-stacking or storage.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
-
+image, metadata, adobe, postprocessing, editing, Z-stack, exposure, color
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
