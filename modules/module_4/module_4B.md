@@ -1,10 +1,10 @@
 # Module 4B: Pinned 3D specimen imaging
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module is intended for capturing and storing the morphological data from a 3D scan obtained via photogrammetry or microCT methods.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+photogrammetry, image, 3-D, microCT, specimen, segmentation, visualization
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
