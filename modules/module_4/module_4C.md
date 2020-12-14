@@ -1,10 +1,10 @@
 # Module 4C: Enveloped or "flat" Imaging
 
 ## Module Purpose: 
-This module is for imaging flat-preserved specimens using flat photography or scanning methods that create a high-resultion, in-focus image of the entire specimen and labels, including enveloped or carded Lepidoptera or Odonata.
+This module is for imaging flat-preserved specimens using flat photography or scanning methods that create a high-resolution, in-focus image of the entire specimen and labels, including enveloped or papered Lepidoptera or Odonata.
 
 ## Module Keywords: 
-Imaging, 2D, photography, flat, butterfly, dragonfly, envelope
+Imaging, 2D, photography, flat, butterfly, dragonfly, envelope, papered
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
