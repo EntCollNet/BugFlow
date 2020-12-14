@@ -1,11 +1,10 @@
 # Module 4G: Wet Photo-stacked Hi-res Imaging
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module shows how to create a high-resolution image of ethanol preserved specimens using focus-stacking for a crisp, clear image at a resolution high enough to see the majority of the features needed for identification.
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
-
+imaging, focus-stacking, high-resolution, ethanol, wet
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
