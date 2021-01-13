@@ -40,5 +40,8 @@ imaging, metadata, label data, low-resolution
 ## Exemplar Workflows: 
 * TaxonWorks: [Label and low-res staged image photography workflow](https://docs.google.com/document/d/1jeB0PCmy81aiDRrIMJX-HETB8nngbZRhfd0RDLTEr9Q/edit?usp=sharing)
 
+## Discussion
+Label imaging is often overlooked, either because it is simple, or not deemed as important as images of the specimens themselves. But label data are often just as, if not more important, than an image of the specimen. Properly documenting the label data via images can allow for decreased handling time, increased use of specimens, and opportunities for outreach. 
+
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
