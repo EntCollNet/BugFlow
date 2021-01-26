@@ -1,4 +1,4 @@
-# Module 1A: Inventory and Taxonomy Update (Pre-digitization) 
+# Module 1A: Inventory and Taxonomy Update
 
 ## Module Purpose: 
 This module outlines the process of assembling and and updating a species-level inventory for a collection prior to specimen-level digitization. It includes the process of re-curating the specimens and transfer to archival storage in preparation for digitization. Key pieces of data to be acquired by this workflow include: Current Species Name and Higher Classification, Specimen Count, Biogeographic Region, Storage Location.
