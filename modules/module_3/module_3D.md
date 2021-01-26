@@ -34,7 +34,7 @@ image, images, imaging, metadata, label data, labels, labeling, low-resolution, 
 * "Cost" of specimen handling should be taken into account. The less often labels and specimens are handled, the better the long term conservation of that object and the labels. 
 
 ## Outreach Opportunities: 
-* T8: Images can be used for community transcription outreach efforts. E.g. [TPT Notes from Nature](https://www.zooniverse.org/projects/md68135/notes-from-nature-terrestrial-parasite-tracker)
+* T8: Images can be used for community transcription outreach efforts. E.g. [TPT Notes from Nature](https://www.zooniverse.org/projects/md68135/notes-from-nature-terrestrial-parasite-tracker) [DigiVol] (https://volunteer.ala.org.au/) [Smithsonian Digital Volunteers ] (https://transcription.si.edu/)
 * T8: Images can be used for various social media campaigns highlighting interesting and unique specimens in the museum
 
 ## Exemplar Workflows: 
