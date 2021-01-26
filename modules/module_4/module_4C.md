@@ -33,6 +33,7 @@ List outreach opportunities that arise in workflows using this module (reference
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
+[Frost Entomological Museum (PSUC) standard operating procedure for Odonata envelope imaging](https://docs.google.com/document/d/19J1vILfbPRZaKIBmsfALE95ACR6Q9ss1nic4VRK-IQU/edit)
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
