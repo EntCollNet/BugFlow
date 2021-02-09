@@ -28,6 +28,7 @@ Wet insect soup, bulk samples, malaise traps, pan traps, yellow pan, pitfall, im
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
+
 •	Handling of wet specimens
 
 •	Specimen and label handling
