@@ -1,5 +1,5 @@
 # BugFlow
-Bug flow is a community resource for developing and sharing entomological collection digitization workflows and modules.
+Bug flow is a community resource for developing and sharing entomological collection digitization workflows and modules. Plans are to capture the methods and practices used to do this work and incorporate new versioning and metadata practices for workflows developed using these modules. If time allows, include some exemplar digitization workflows that were built from these new modules and incorporating the new metadata information and publishing them in several formats (PDF, DOCX, TXT). To support wider adoption and ease-of-use, the group will endeavor to produce versions in multiple languages.
 
 ## About BugFlow
 See the [About BugFlow](about_us.md) page to learn about our history and project members.
