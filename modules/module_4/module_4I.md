@@ -52,6 +52,7 @@ Online volunteers can identify ordinal diversity and abundance and clip out and 
 
 ## Exemplar Workflows: 
 Examplar workflow of post-processing of images to tag, sort, classify insects (an automated algorithm for insect soup image segmentation and measurements) : Automated Image Analysis on Insect Soups https://doi.org/10.1109/DICTA.2016.7797010
+Examplar workflow on using Inselect desktop software for placing bounding boxes around each insect in an image and exporting each image crop to its own JPG file. Inselect SYNTHESYS3 and iDigBio joint workshop (naturalhistorymuseum.github.io)
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
