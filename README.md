@@ -26,10 +26,10 @@ Modules are currently being updated.  The following map shows how the modules re
 
 BugFlow is broken into 5 super-modules which are linked below.  Each super-module is broken down into constituent submodules that focus on specific tasks related to digitizing particular types of objects contained in entomological collections.
 
-[Super-Module 1 - Pre-digitization Curation (Staging)](modules/module_1/)
-[Super-Module 2 - Project Management](modules/module_2/)
-[Super-Module 2 - Label Data](modules/module_3/)
-[Super-Module 4 - Imaging](modules/module_4/)
+[Super-Module 1 - Pre-digitization Curation (Staging)](modules/module_1/) | 
+[Super-Module 2 - Project Management](modules/module_2/) | 
+[Super-Module 2 - Label Data](modules/module_3/) | 
+[Super-Module 4 - Imaging](modules/module_4/) | 
 [Super-Module 5 - Value-added](modules/module_5/)
 
 
