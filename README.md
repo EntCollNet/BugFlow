@@ -9,11 +9,11 @@ See the [About BugFlow](about_us.md) page to learn about our history and project
 ### BugFlow on Slack
 We work together, develop ideas, and stay in touch on the [BugFlow Slack](https://bugflowentomo-ubc1601.slack.com), we would love to have you join us.
 ### Collaborate on building modules and workflows
-We are always looking to grow our team of contributors and value community feedback.  Join slack or send an email to anymembers of BugFlow to get connected.  Please leave feedback requests and discussion in our [Project Issues tracker](https://github.com/EntCollNet/BugFlow/issues).
+We are always looking to grow our team of contributors and value community feedback.  Join slack or send an email to any members of BugFlow to get connected.  Please leave feedback requests and discussion in our [Project Issues tracker](https://github.com/EntCollNet/BugFlow/issues).
 
 
 ## BugFlow Modules
-The primary output of BigFlow is a set of modules that contain outline the tasks and resourses needed to create digitization workflows for entomological collections. They are actively being developed within this repository, and are available here:
+The primary output of BigFlow is a set of modules that contain outline the tasks and resources needed to create digitization workflows for entomological collections. They are actively being developed within this repository, and are available here:
 ### [Current BugFlow Modules](modules/)
 
 To see issues and tasks still pending, please see the github repository issues located here:
