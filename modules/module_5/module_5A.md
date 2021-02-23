@@ -4,7 +4,7 @@
 What is this module for? What data will be gathered?
 
 ## Module Keywords: 
-Extended Specimen,	Date formats,	measurements,	tags,	notes,	collector parsing,	curatorial information,	historical information,	annotations
+extended specimen,	date formats,	measurements,	tags,	notes,	collector parsing,	curatorial information,	historical information,	annotations
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
