@@ -4,7 +4,7 @@
 This module outlines what data should be captured and recorded while collecting specimens in the field in order to efficiently create specimen locality labels and seamlessly integrate data with other resources, most likely databases.
 
 ## Module Keywords: 
-pre-digitization, field work, metadata, transcription
+pre-digitization, field work, metadata, transcription, label generation
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
