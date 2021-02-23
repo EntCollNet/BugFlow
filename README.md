@@ -20,6 +20,21 @@ To see issues and tasks still pending, please see the github repository issues l
 [BugFlow Issues](https://github.com/EntCollNet/BugFlow/issues)
 
 
+Modules are currently being updated.  The following map shows how the modules relate to each other and might fit into a collection-specific set of workflows.
+
+![Map of digitization modules](https://raw.githubusercontent.com/EntCollNet/BugFlow/master/modules/module_map.png)
+
+BugFlow is broken into 5 super-modules which are linked below.  Each super-module is broken down into constituent submodules that focus on specific tasks related to digitizing particular types of objects contained in entomological collections.
+
+[Super-Module 1 - Pre-digitization Curation (Staging)](modules/module_1/)
+[Super-Module 2 - Project Management](modules/module_2/)
+[Super-Module 2 - Label Data](modules/module_3/)
+[Super-Module 4 - Imaging](modules/module_4/)
+[Super-Module 5 - Value-added](modules/module_5/)
+
+
+
+
 ## Exemplar workflows
 As the modules are developed, examples of workflows containing incorporating these modules will be given here.
 
@@ -29,29 +44,8 @@ Several members of the BugFlow project have joined with other individuals from t
 #  
 
 
-#### 2013 Digitization workflow elements
-These are the things that are important for creating a useful digitization workflow.  Specimens, labels, images, and most importantly well-identified beetles.
-
-##### Module 0 Generic Tasks Applicable to Two or More Modules
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_0_Pinned_Things.pdf)
-##### Module 1 Pre-digitization Curation Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_1_Pinned_Things.pdf)
-##### Module 2A Specimen Imaging Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_2A_Pinned_Things.pdf)
-##### Module 2B Whole-drawer Imaging Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_2B_Pinned_Things.pdf)
-##### Module 2C Label Imaging Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_2C_Pinned_Things.pdf)
-##### Module 3 Image Processing Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_3_Pinned_Things.pdf)
-##### Module 4A Data Capture From Image Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_4A_Pinned_Things.pdf)
-##### Module 4B Data Capture From Specimen Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_4B_Pinned_Things.pdf)
-##### Module 4C Event Data Capture Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_4C_Pinned_Things.pdf)
-##### Module 5 Quality Assurance Tasks
-[iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_5_Pinned_Things.pdf)
+#### Legacy Modules
+A series of modules were developed through the coordination of iDigBio in 2013. Information about these modules, upon which BugFlow was based, [can be found here.](modules/2013-modules.md)
 
 
 ## Digitization in context
