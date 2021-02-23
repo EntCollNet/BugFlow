@@ -42,7 +42,7 @@ Several members of the BugFlow project have joined with other individuals from t
 
 
 ## Legacy Modules
-A series of modules were developed through the coordination of iDigBio in 2013. Information about these modules, upon which BugFlow was based, [can be found here.](modules/2013-modules.md)
+A series of modules were developed through the coordination of iDigBio in 2013. Information about these modules, upon which BugFlow was based, [can be found here.](modules/2013_modules.md)
 
 
 ## Digitization in context
