@@ -34,17 +34,14 @@ BugFlow is broken into 5 super-modules which are linked below.  Each super-modul
 
 
 
-
 ## Exemplar workflows
 As the modules are developed, examples of workflows containing incorporating these modules will be given here.
 
 ## Entomological Collections Best-Practices
 Several members of the BugFlow project have joined with other individuals from the entomological collections community to work on entomology-related Best Practices for the SPNHC wiki, see: [SPNHC Best Practices](https://spnhc.biowikifarm.net/wiki/Category:Best_Practices).  Contact anyone from BugFlow to get connected with that project.
 
-#  
 
-
-#### Legacy Modules
+## Legacy Modules
 A series of modules were developed through the coordination of iDigBio in 2013. Information about these modules, upon which BugFlow was based, [can be found here.](modules/2013-modules.md)
 
 
