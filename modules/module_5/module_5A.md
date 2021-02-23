@@ -4,7 +4,7 @@
 What is this module for? What data will be gathered?
 
 ## Module Keywords: 
-Five or six keywords that make searching easier
+Extended Specimen,	Date formats,	measurements,	tags,	notes,	collector parsing,	curatorial information,	historical information,	annotations
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
