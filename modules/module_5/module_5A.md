@@ -1,7 +1,7 @@
 # Module 5A: Data Enhancements
 
 ## Module Purpose: 
-What is this module for? What data will be gathered?
+This module addresses the addition of ancillary data beyond that which is captured in the specimen metadata. This includes specimen use in research, tags and annotations made by the public or by researchers, and curatorial history. 
 
 ## Module Keywords: 
 extended specimen,	date formats,	measurements,	tags,	notes,	collector parsing,	curatorial information,	historical information,	annotations
