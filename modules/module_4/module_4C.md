@@ -22,7 +22,7 @@ Imaging, 2D, photography, flat, butterfly, dragonfly, envelope, papered
 
 
 ## Essential Training: 
-Specimen handling
+Specimen handling  
 Imaging system
 
 ## Module Metrics, Costing, and Reporting: 
