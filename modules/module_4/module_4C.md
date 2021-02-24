@@ -16,7 +16,7 @@ Imaging, 2D, photography, flat, butterfly, dragonfly, envelope, papered
 |T5|Image capture.|Make sure that the resolution of your scan or photograph allows you to see details of the specimen and that labels are readable. Include a scale bar and color calibration marker in the area imaged.||
 |T6|File naming|Rather than using the default machine-generated image numbers, define a standard for naming images, ideally including the catalog number or unique identifier of the specimen. Skip if your image storage solution handles this for you (see T3)||
 |T7|Mark imaged specimens|Add a label indicating that the specimen has been imaged||
-|T8||||
+|T8|Move imaged specimens back into collection.|||
 |T9||||
 
 
