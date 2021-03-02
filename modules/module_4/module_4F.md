@@ -34,7 +34,7 @@ Define metrics that can be measured to assess success of workflows using this mo
 List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
 
 ## Exemplar Workflows: 
-List of examplar workflows organized by database type.
+Essig Museum Slide Scanning [Workflow](https://www.idigbio.org/wiki/images/3/30/Scanning_Microscope_Slides_Oboyski.pdf)
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
