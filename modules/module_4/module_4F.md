@@ -39,7 +39,7 @@ Images of slides (T9) can be used in social media
 Transcription of slide images can be done via crowdsourcing (e.g. Notes from Nature, Zooniverse)
 
 ## Exemplar Workflows: 
-Essig Museum Slide Scanning [Workflow](https://www.idigbio.org/wiki/images/3/30/Scanning_Microscope_Slides_Oboyski.pdf)
+Essig Museum Slide Scanning [Workflow](https://www.idigbio.org/wiki/images/3/30/Scanning_Microscope_Slides_Oboyski.pdf)<br>
 INHS Insect Collection Slide Scanning [Workflow](https://docs.google.com/document/d/1V_gCv9W5QG3p0rpUZtvssucrJ5I5ZjtmOD3jbFOfkEk/edit?usp=sharing)
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
