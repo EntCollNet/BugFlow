@@ -4,7 +4,7 @@
 This module will cover imaging workflows for frozen specimens/tissue samples. Frozen samples are generally preserved in -80°C freezers or in Liquid Nitrogen dewars, and might or might not be in ethanol. In order to avoid degradation of DNA and RNA, frozen samples should be kept on ice as much as possible.
 
 ## Module Keywords: 
-Frozen, molecular, genomic, DNA, RNA, Imaging
+Frozen, tissue, specimen, specimens, molecular, genomic, DNA, RNA, Imaging, Image
 
 
 | TaskID | Task Name | Explanations and Comments | Resources |
