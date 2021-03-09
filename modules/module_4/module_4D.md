@@ -18,9 +18,9 @@ Frozen, tissue, specimen, specimens, molecular, genomic, DNA, RNA, Imaging, Imag
 
 
 ## Essential Training: 
-Specimen and label handling 
-Cold storage safety
-Safe handling and use of liquid nitrogen
+Specimen and label handling   
+Cold storage safety  
+Safe handling and use of liquid nitrogen  
 
 ## Module Metrics, Costing, and Reporting: 
 Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
