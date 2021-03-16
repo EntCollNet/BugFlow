@@ -42,7 +42,7 @@ affiliation(s)
 tcm@illinois.edu  
 Illinois Natural History Survey, Prairie Research Institute, Champaign, IL, USA
 #### Deborah Paul
-dlpaul AT illinois DOT edu
+dlpaul AT illinois DOT edu  
 Illinois Natural History Survey, [Species File Group](https://speciesfilegroup.org/), Prairie Research Institute, Champaign, IL, USA
 #### Erika Tucker
 email
