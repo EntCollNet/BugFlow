@@ -24,19 +24,19 @@ slide, imaging, low-resolution, labels
 
 
 ## Essential Training: 
-Slide and label handling
-Label discrimination
-Imaging system
-File renaming program
+Slide and label handling  
+Label discrimination  
+Imaging system  
+File renaming program  
 
 ## Module Metrics, Costing, and Reporting: 
-Accuracy of transcribed slides
-Number of slide images created per hour
-Amount of data bulk processed vs. done in verbatim transcription
+Accuracy of transcribed slides  
+Number of slide images created per hour  
+Amount of data bulk processed vs. done in verbatim transcription  
 
 ## Outreach Opportunities: 
-Images of slides (T9) can be used in social media
-Transcription of slide images can be done via crowdsourcing (e.g. Notes from Nature, Zooniverse)
+Images of slides (T9) can be used in social media  
+Transcription of slide images can be done via crowdsourcing (e.g. Notes from Nature, Zooniverse)  
 
 ## Exemplar Workflows: 
 Essig Museum Slide Scanning [Workflow](https://www.idigbio.org/wiki/images/3/30/Scanning_Microscope_Slides_Oboyski.pdf)<br>
