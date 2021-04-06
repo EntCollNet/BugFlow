@@ -31,10 +31,10 @@ Please provide the following information:
 ## YOUR TITLE HERE
 
 ### Steps in Workflow 
-1. Text of Step 1. E.g. To begin, do this thing.   
-Screenshot or reference image of this step using Markdown (e.g. ![alt text for screen readers](/path/to/image.png "Text to show on mouseover"))
-2. Text of Step 2. E.g. Next, do this thing.
-3. Text for Step 3
+1. Text of Step 1. (E.g. To begin, do this thing.)   
+Screenshot or reference image of this step using Markdown (e.g. '[alt text for screen readers](/path/to/image.png "Text to show on mouseover")')
+2. Text of Step 2. (E.g. Next, do this thing.)
+3. Text for Step 3.
 4. etc ... 
 
 ### References
