@@ -1,7 +1,7 @@
 # Module 2B: Quality Control 
 
 ## Module Purpose: 
-This module offers possible data quality and data assurance step-wise strategy that can be implemented in various workflows. One needs an eclectic approach as some of these steps will likely apply to many digitization workflows and many organismal groups, while others will be irrelevant or highly specific to a given group. Examples of data that might be gathered here include errors found per some number of records checked, or outputs from an automated script that checks image quality, or perhaps a list of outliers that need verification (say a georeferencing script finds issues). The quality assurance path presented here is (mostly) linear, that is, presented as QA steps that would naturally follow each other in a digitization protocol.
+This module offers possible data quality and data assurance step-wise strategies that can be implemented in various workflows. One needs an eclectic approach as some of these steps will likely apply to many digitization workflows and many organismal groups, while others will be irrelevant or highly specific to a given group. Examples of data that might be gathered here include errors found per some number of records checked, or outputs from an automated script that checks image quality, or perhaps a list of outliers that need verification (say a georeferencing script finds issues). The quality assurance path presented here is (mostly) linear, that is, presented as QA steps that would naturally follow each other in a digitization protocol.
 
 ## Module Keywords: 
 quality assurance, quality control, QA / QC, script, data quality, error tracking, digitization rate, digitization cost
