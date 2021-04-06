@@ -6,13 +6,13 @@ labels:
 assignees: ''
 
 ---
-**Your Title Here*
-This is a Workflow Title
+**Your Title Here**  
+This is a Workflow Title  
 
-**Describe the workflow**
-A clear and concise description of what the workflow is.
+**Describe the workflow**  
+A clear and concise description of what the workflow is.  
 
-**Workflow Metadata**
+**Workflow Metadata**  
 Please provide the following information:
 1. Author(s): First Name, Last Name; ORCID (if possible); contact email; Second author ...
 2. Institution(s): The institution or organization where this document was created for/at .
