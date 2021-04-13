@@ -42,7 +42,8 @@ Transcription of slide images can be done via crowdsourcing (e.g. Notes from Nat
 
 ## Exemplar Workflows: 
 Essig Museum Slide Scanning [Workflow](https://www.idigbio.org/wiki/images/3/30/Scanning_Microscope_Slides_Oboyski.pdf)<br>
-INHS Insect Collection Slide Scanning [Workflow](https://docs.google.com/document/d/1V_gCv9W5QG3p0rpUZtvssucrJ5I5ZjtmOD3jbFOfkEk/edit?usp=sharing)
+INHS Insect Collection Slide Scanning [Workflow](https://docs.google.com/document/d/1V_gCv9W5QG3p0rpUZtvssucrJ5I5ZjtmOD3jbFOfkEk/edit?usp=sharing)  
+Allan E, Livermore L, Price B, Shchedrina O, Smith V (2019) **A Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides**. Biodiversity Data Journal 7: e32342. https://doi.org/10.3897/BDJ.7.e32342
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
