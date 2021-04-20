@@ -10,9 +10,9 @@ photogrammetry, image, 3-D, microCT, specimen, segmentation, visualization
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Task name here.|Definition, comments, description. Should be general and not reference particular software or taxa.| Links to resources  Links to workflows  Links to controlled vocabularies|
-|T2||||
-|T3||||
+|T1| Select and transport affected drawer(s) to proximity of imaging station.|The workflow outlined for this module integrates steps for specimen imaging, whether for all specimens or exemplar specimens.| Institutional imaging policy. For further information on imaging guidelines and standards, see iDigBio.|
+|T2|Set aside damaged specimens for conservation workflow.|Re-route specimen to conservation workflow per conservation policy. Whether to image before conservation might depend upon the severity of the damage. Also see Module 2A|Institutional conservation policy.|
+|T3|If specimens are not catalogued, transcribed, or databased, decide on whether to do so before or after imaging. Regardless, imaged specimens should be associated with a unique identifier such as a catalog number.|Exemplar high resolution imaging can be done before or after typical databasing of specimen. Generally, digitization of specimens is a different workflow than imaging specimens in high resolution, and should be thought about separately, although associating images with specimens is much easier if they already at least have an database record created with an associated unique identifier.||
 |T4||||
 |T5||||
 |T6||||
