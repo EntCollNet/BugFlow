@@ -10,7 +10,7 @@ imaging, focus-stacking, high-resolution, slides
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Select and transport containers (slide boxes/slide racks/slide drawers) to proximity of imaging/scanning station.|| Institutional imaging policy|
+|T1| Select and transport containers (slide boxes/slide racks/slide drawers) to proximity of imaging/scanning station.|Pick specimens to be digitized depending on project or priority.| Institutional imaging policy|
 |T2| Set aside slides with damaged labels/specimens for conservation workflow. |Re-route slide to conservation workflow per conservation policy. Whether to image specimens before conservation depends upon the severity of the damage.|Institutional conservation policy|
 |T3| If specimens are not catalogued, transcribed, or databased, decide on whether to do so before or after imaging. Regardless, imaged specimens should be associated with a unique identifier such as a catalog number.|Exemplar high resolution imaging can be done before or after typical databasing of a slide specimen. Generally, digitization of specimens is a different workflow than imaging specimens in high resolution, and should be thought about separately, although associating images with specimens is much easier if they already at least have an database record created with an associated unique identifier.||
 |T4| Select and remove exemplar specimens for high resolution imaging to work area from container.|Slides to be imaged may come from [Module 4FT3](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_4/module_4F.md)| Institutional digitization policy|
