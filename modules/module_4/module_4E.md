@@ -23,9 +23,9 @@ imaging, focus-stacking, high-resolution, slides
 |T11|Return containers to collection and flag beginning point for next imaging session.|Returning slide boxes or trays to cabinets might occur in bulk at the end of an imaging session. It is recommended that all completed slide boxes, drawers, cabinets, etc. get a label, sticker, or other marking that indicates all specimen labels in that unit or container were imaged. This will save a great deal of time when trying to find specimens in the collection already imaged or ones that are still in need of imaging.||
 
 ## Essential Training: 
-Slide and label handling
-Imaging system
-File renaming program
+Slide and label handling  
+Imaging system  
+File renaming program  
 
 ## Module Metrics, Costing, and Reporting: 
 Number of images per hour
