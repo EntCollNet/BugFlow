@@ -20,7 +20,11 @@ value-added, parsing, label data, transcription, relationship
 |T9||||
 |T10||||
 
-
+## Brainstorming
+Should be capturable by GLOBI: https://www.globalbioticinteractions.org/about
+Use a controlled vocabulary.
+TPT resources here will be very useful.
+Don't "overrelate" e.g. imply that something is a pollinator of something just because it was found on that plant. 
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
