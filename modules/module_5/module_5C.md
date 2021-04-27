@@ -13,6 +13,7 @@ DNA, extended specimen, interoperability, data capture
 |T2|Import/upload local genetic data|Upload sequence data or files to online repository or to your collection management system.|[http://boldsystems.org/] [https://www.ncbi.nlm.nih.gov/genbank/] [https://www.ncbi.nlm.nih.gov/sra]|
 |T3|Link external data repositories to specimen occurrence record|Using the catalog number and an occurrence GUID or persistent URL, annotate the data upload to be referenceable to the record of the specimen in your collection management system.||
 |T4|Link specimen occurrence record to external data repositories|Add link to persistent URL or GUID and record ID for the genetic data housed in the external repositories.||
+|T5|Augment specimen record with genetic preparation metadata|Add metadata about the tissue used, type of genetic extraction, etc. These data can be structured according to the Darwin Core extension produced by GGBN (Global Genome Biodiversity Network)|[Droege et al. 2016 GGBN Data Standard](https://academic.oup.com/database/article/doi/10.1093/database/baw125/2630516),[GGBN Data Standard on TDWG](https://terms.tdwg.org/wiki/GGBN_Data_Standard#DNA.2FRNA_.28Material_Sample.29_Vocabulary),[GGBN Extensions on GBIF](https://tools.gbif.org/dwca-validator/extension.do?id=http://data.ggbn.org/schemas/ggbn/terms/MaterialSample)|
 
 
 
