@@ -3,10 +3,12 @@ Working in entomological collections requires training. This section of BugFlow 
 
 ## List of Training Topics
 
-1. Topic 1
-1. Topic 2
-1. Topic 3
-1. Topic 4
+1. Pinned/mounted specimen handling
+1. Slide and label handling
+1. Label discrimination
+1. General data entry (into Collections Management Software or spreadsheet)
+1. Imaging system
+1. File renaming program
 
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
