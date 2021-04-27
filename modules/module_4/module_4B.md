@@ -31,10 +31,10 @@ Define metrics that can be measured to assess success of workflows using this mo
 List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
 
 ## Exemplar Workflows: 
-List of examplar workflows organized by database type. |
+List of examplar workflows organized by database type. 
 
-• https://sketchfab.com/blogs/community/category/tutorial/ |
-•	Photogrammetry Workflow on Sketchfab community : Sketchfab Community Blog - » 3D Digitization of the NHMLA Vertebrate Fossil Type Collection |
+• https://sketchfab.com/blogs/community/category/tutorial/ 
+•	Photogrammetry Workflow on Sketchfab community : Sketchfab Community Blog - » 3D Digitization of the NHMLA Vertebrate Fossil Type Collection 
 
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
