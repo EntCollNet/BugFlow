@@ -37,7 +37,7 @@ Number of images per hour
 Images of slides (T6) can be used in social media
 
 ## Exemplar Workflows: 
-- Tutorials on photo stacking using the MacropodPro system and compound scope lenses can be found [here] (https://macroscopicsolutions.com/video-tutorial-macropod-micro-kit/)
+- Tutorials on photo stacking using the MacropodPro system and compound scope lenses can be found [here](https://macroscopicsolutions.com/video-tutorial-macropod-micro-kit/)
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
