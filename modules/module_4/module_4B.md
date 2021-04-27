@@ -34,6 +34,9 @@ List outreach opportunities that arise in workflows using this module (reference
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
+• https://sketchfab.com/blogs/community/category/tutorial/
+•	Photogrammetry Workflow on Sketchfab community : Sketchfab Community Blog - » 3D Digitization of the NHMLA Vertebrate Fossil Type Collection
+
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
