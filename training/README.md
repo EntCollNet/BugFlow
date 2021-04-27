@@ -9,6 +9,7 @@ Working in entomological collections requires training. This section of BugFlow 
 1. General data entry (into Collections Management Software or spreadsheet)
 1. Imaging system
 1. File renaming program
+1. Collection-specific historical & legacy organization system(s)
 
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
