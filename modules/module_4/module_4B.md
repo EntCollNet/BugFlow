@@ -25,6 +25,7 @@ photogrammetry, image, 3-D, microCT, specimen, segmentation, visualization
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
+For step-by-step instructions on how to process image data, we recommend downloading the Agisoft PhotoScan software user manuals and tutorials.
 
 ## Module Metrics, Costing, and Reporting: 
 Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
