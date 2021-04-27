@@ -21,7 +21,7 @@ pre-digitization, transcription, metadata
 
 
 ## Essential Training: 
-Darwin Core Training
+Darwin Core Training  
 Dublin Core Training
 
 ## Module Metrics, Costing, and Reporting: 
