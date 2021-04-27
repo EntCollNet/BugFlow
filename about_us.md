@@ -45,8 +45,7 @@ Illinois Natural History Survey, Prairie Research Institute, Champaign, IL, USA
 dlpaul AT illinois DOT edu  
 Illinois Natural History Survey, [Species File Group](https://speciesfilegroup.org/), Prairie Research Institute, Champaign, IL, USA
 #### Erika Tucker
-email
-affiliation(s)
+EMTuckerLab@gmail.com
 #### Maureen Turcatel
 email
 affiliation(s)
