@@ -10,6 +10,17 @@ Working in entomological collections requires training. This section of BugFlow 
 1. Imaging system
 1. File renaming program
 1. Collection-specific historical & legacy organization system(s)
+1. Localities and Georeferencing
+1. General Collections Organization
+1. Collection Oddities, Quirks
+1. Image editing software
+1. Label making and labelling standards
+1. Specimen repair or damaged specimen handling
+1. Safety
+1. Envelope handling
+1. Ethanol specimen handling
+1. Frozen tissue handling
+1. IPM protocols
 
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
