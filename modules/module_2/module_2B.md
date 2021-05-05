@@ -21,7 +21,6 @@ quality assurance, quality control, QA / QC, script, data quality, error trackin
 |T10||||
 
 
-
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module  
 - (DP I would add digitzation rate (e.g. number of specimens or drawers or ... per day/month/person)  
@@ -38,6 +37,9 @@ List outreach opportunities that arise in workflows using this module (reference
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
+
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion.
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
