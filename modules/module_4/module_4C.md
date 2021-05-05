@@ -27,10 +27,10 @@ Imaging, 2D, photography, flat, butterfly, dragonfly, envelope, papered
 - Imaging system
 
 ## Module Metrics, Costing, and Reporting: 
-- "Cost" (time) of specimen handling should be taken into account, especially if envelope replacement is needed (T3, T9).
-- Number of specimens and labels imaged (photographed vs. scanned) per hour (T7).
-- Number of specimens processed for envelope replacement (T9).
-- Specimens should be able to be fully transcribed and databased from just the images of labels and specimens (T7).
+- "Cost" (time) of specimen handling should be taken into account, especially if envelope replacement is needed (T3, T9)
+- Number of specimens and labels imaged (photographed vs. scanned) per hour (T7)
+- Number of specimens processed for envelope replacement (T9)
+- Specimens should be able to be fully transcribed and databased from just the images of labels and specimens (T7)
 
 ## Outreach Opportunities: 
 - Images of specimens (T7) can be used in social media.
