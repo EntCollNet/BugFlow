@@ -18,11 +18,11 @@ pre-digitization, collection health, containers, conservation, levels
 |T7|Decide level of conservation action| If a worker sees a container with dermestid damage, for example, should they immediately freeze it or wait until multiple drawers have been identified? Generally, keep this to a minimum, since doing so will significantly slow down profiling.||
 |T8|Gather material to be profiled.|||
 |T9|Take conservation action, if necessary.|||
-|T6|Score containers based on multiple metrics.|||
-|T7|Stub label to be printed.|||
-|T8|Repeat T5-T7, as necessary.|||
-|T9|Once finished profiling for the day, mark the place you have finished.|||
-|T10|Print out labels.|Print stubbed labels at this time to maximize task efficiency. Labeling can be done at the end of a unit, or as you go.||
+|T10|Score containers based on multiple metrics.|||
+|T11|Stub label to be printed.|||
+|T12|Repeat T5-T7, as necessary.|||
+|T13|Once finished profiling for the day, mark the place you have finished.|||
+|T14|Print out labels.|Print stubbed labels at this time to maximize task efficiency. Labeling can be done at the end of a unit, or as you go.||
 
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
