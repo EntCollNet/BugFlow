@@ -9,7 +9,7 @@ Pre-digitization, imaging, whole-drawer, stiching, curation
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1|Check scan log and quality of completed images from previous night’s stitching.|(This daily workflow begins with checking results from the previous day’s output. As written, it applies to all days but the first day of launching a whole-drawer digitization initiative. The initial day would begin with T6.) <br> Whole-drawer imaging systems require recording numerous images of portions of the subject, all of which must be stitched to produce a final, composite image. The stitching process may require several hours, depending upon the number of images to stitch and the number of final images to be produced, and is usually effected through an overnight batch process. Hence, this module begins with the tasks required to check the results of the previous evening’s stitching operation and prepare for re-imaging as necessary.| Links to resources  Links to workflows  Links to controlled vocabularies|
+|T1|Check scan log and quality of completed images from previous night’s stitching.|This daily workflow begins with checking results from the previous day’s output. As written, it applies to all days but the first day of launching a whole-drawer digitization initiative. The initial day would begin with T6. <br> Whole-drawer imaging systems require recording numerous images of portions of the subject, all of which must be stitched to produce a final, composite image. The stitching process may require several hours, depending upon the number of images to stitch and the number of final images to be produced, and is usually effected through an overnight batch process. Hence, this module begins with the tasks required to check the results of the previous evening’s stitching operation and prepare for re-imaging as necessary.| Links to resources  Links to workflows  Links to controlled vocabularies|
 |T2|Queue for imaging all drawers for which poor quality images were noted from previous night’s stitching.|Strategies vary. Drawers in need of re-imaging might be queued for imaging with the day’s work, or might be re-imaged immediately, in which case T10-T11 would be accomplished here for the drawers to be re-imaged.||
 |T3|Delete the numerous images representing portions of the subject captured in the original whole-drawer scan.|This step applies to whole-drawer imaging systems that use capture of adjacent images to form the completed final image.||
 |T4|Return re-imaged drawers to cabinets or to a staging area for later return to cabinets.|||
@@ -37,6 +37,9 @@ List outreach opportunities that arise in workflows using this module (reference
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
+
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion.
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
