@@ -18,7 +18,6 @@ pre-digitization, transcription, metadata
 |T7| Image metadata capture decision |Decide what metadata will be captured related to images. Consider following best practices of image metadata. Generally this includes things like who captured images, who edited images, when the images were captured, what project they are related to|[Dublin-Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)|
 |T8|Field assessment |Do T1-T7 for a variety of specimens of various data quality and check if any fields have been missed.||
 
-
 ## Essential Training: 
 Specimen handling  
 Label handling  
@@ -42,6 +41,8 @@ T6 Images can be used in outreach
 
 ## Exemplar Workflows: 
 See Bugflow [workflows](https://github.com/EntCollNet/BugFlow/tree/master/workflows) folder. 
+
+## Discussion
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
