@@ -17,8 +17,6 @@ accessibility, aggregation, GBIF, iDigBio, interoperability, publication
 |T6|Refresh your data regularly|Identify time intervals or digitization milestones to update your published datasets with your desired outlets.||
 
 
-
-
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
 
@@ -30,6 +28,9 @@ List outreach opportunities that arise in workflows using this module (reference
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
+
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion.
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
