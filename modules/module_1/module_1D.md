@@ -42,7 +42,8 @@ T6 Images can be used in outreach
 ## Exemplar Workflows: 
 See Bugflow [workflows](https://github.com/EntCollNet/BugFlow/tree/master/workflows) folder. 
 
-## Discussion
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion. 
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
