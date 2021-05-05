@@ -35,7 +35,10 @@ List of examplar workflows organized by database type.
 
 • https://sketchfab.com/blogs/community/category/tutorial/ 
 •	Photogrammetry Workflow on Sketchfab community : Sketchfab Community Blog - » 3D Digitization of the NHMLA Vertebrate Fossil Type Collection 
+•	Brecko J. & Mathys A. 2020. Handbook of best practice and standards for 2D+ and 3D imaging of natural history collections. European Journal of Taxonomy 623: 1-115. https://doi.org/10.5852/ejt.2020.623
 
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion. 
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
