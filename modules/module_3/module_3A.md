@@ -27,5 +27,8 @@ Define metrics that can be measured to assess success of workflows using this mo
 ## Outreach Opportunities: 
 List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
 
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion.
+
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
