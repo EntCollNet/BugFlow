@@ -20,8 +20,6 @@ data management, edits, publication, quality assurance, review
 |T9|Assess categories and sources of data errors|Errors should not only be fixed but examined for ways they can be avoided in the future.  Some key items to consider are: (1) updating or reexamining training materials for/with digitization personnel, (2) amending upstream digitization workflows, (3) amending physical collection curation to facilitate digitization.||
 
 
-
-
 ## Essential Training: 
 Define metrics that can be measured to assess success of workflows using this module
 
@@ -33,6 +31,9 @@ List outreach opportunities that arise in workflows using this module (reference
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
+
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion.
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
