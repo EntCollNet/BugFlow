@@ -39,5 +39,8 @@ Imaging, 2D, photography, flat, butterfly, dragonfly, envelope, papered
 ## Exemplar Workflows:
 [Frost Entomological Museum (PSUC) standard operating procedure for Odonata envelope imaging](https://docs.google.com/document/d/19J1vILfbPRZaKIBmsfALE95ACR6Q9ss1nic4VRK-IQU/edit)
 
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion. 
+
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
