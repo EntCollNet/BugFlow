@@ -20,17 +20,28 @@ pre-digitization, transcription, metadata
 
 
 ## Essential Training: 
-Darwin Core Training  
-Dublin Core Training
+Specimen handling  
+Label handling  
+Data recording best practices  
+General collections organization  
+Collection-specific historical & legacy organization system(s)
+Collection oddities, quirks
+Darwin Core 
+Dublin Core
 
 ## Module Metrics, Costing, and Reporting: 
-Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
+Number of records per hour  
+Number of images per hour
+Number of specimens damaged during digitiization
+Number of field book pages captured per hour
 
 ## Outreach Opportunities: 
-List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
+T2 Transcription and images of para-collections materials can be crowdsourced
+T2 gathering individual "projects" together can lead to a great story
+T6 Images can be used in outreach
 
 ## Exemplar Workflows: 
-List of examplar workflows organized by database type.
+See Bugflow [workflows](https://github.com/EntCollNet/BugFlow/tree/master/workflows)
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
