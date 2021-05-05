@@ -55,5 +55,8 @@ Examplar workflow of post-processing of images to tag, sort, classify insects (a
 
 Examplar workflow on using Inselect desktop software for placing bounding boxes around each insect in an image and exporting each image crop to its own JPG file. Inselect SYNTHESYS3 and iDigBio joint workshop (naturalhistorymuseum.github.io) https://naturalhistorymuseum.github.io/inselect-SPNHC2016/worksheet.html#worked-example-1---insect-soup
 
+## Discussion:
+No discussion yet. Open an issue and reference this module to start discussion. 
+
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
