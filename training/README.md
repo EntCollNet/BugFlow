@@ -30,8 +30,10 @@ Working in entomological collections requires training. This section of BugFlow 
 
 ### Digital Data Management
 1. General data entry (into Collections Management Software or spreadsheet)
-1. Localities and Georeferencing
-1. Data recording best practices
+2. Darwin Core
+3. Dublin Core
+4. Localities and Georeferencing
+5. Data recording best practices
 
 ### General
 1. General Collections Organization
