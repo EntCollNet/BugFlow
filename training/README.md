@@ -13,7 +13,7 @@ Working in entomological collections requires training. This section of BugFlow 
 1. Sorting
 1. Mounting
 
-### Label Handling
+### Labels
 1. Label discrimination
 1. Label handling
 1. Label data interpretation, parsing, and transcription
