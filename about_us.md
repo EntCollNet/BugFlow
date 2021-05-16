@@ -44,8 +44,11 @@ Illinois Natural History Survey, Prairie Research Institute, Champaign, IL, USA
 #### Deborah Paul
 dlpaul AT illinois DOT edu  
 Illinois Natural History Survey, [Species File Group](https://speciesfilegroup.org/), Prairie Research Institute, Champaign, IL, USA
-#### Erika Tucker
-EMTuckerLab@gmail.com
+
+#### [Erika Tucker](https://lsa.umich.edu/ummz/people/curators-staff/emtucker.html)
+EMTuckerLab@gmail.com   
+[University of Michigan Musuem of Zoology Insect Collection](https://lsa.umich.edu/ummz/insects.html), Ann Arbor, MI, USA  
+
 #### Maureen Turcatel
 email
 affiliation(s)
