@@ -29,16 +29,16 @@ Define metrics that can be measured to assess success of workflows using this mo
 - Images can be used for various social media campaigns highlighting interesting and unique specimens in the museum
 
 ## Exemplar Workflows:
-### Imaging
+#### Imaging
 - [TaxonWorks: Label and low-res staged image photography workflow](https://docs.google.com/document/d/1jeB0PCmy81aiDRrIMJX-HETB8nngbZRhfd0RDLTEr9Q/edit)
 - Tutorials on photo stacking using the MacropodPro system and compound scope lenses can be found [here](https://macroscopicsolutions.com/video-tutorial-macropod-micro-kit/)   
 - Video tutorial on Leica compound microscope use [here](https://drive.google.com/file/d/1_iJNClBLhJ1Mb-wcDVYUMnTqsJX4hIss/view?usp=sharing)
-### Transcription/databases
+#### Transcription/databases
 - [UMMZI transcription into Specify7](https://github.com/EntCollNet/BugFlow/blob/master/workflows/UMMZI-Remote%20databasing%20in%20Specify7-slides.pdf)
 - [Other Specify database help tutorials](https://www.specifysoftware.org/support/helpcasts-all/)
 
 ## Discussion:
-No discussion yet. Open an issue and reference this module to start discussion.
+Information about potential digitization funding from the NSF Thematic Network Collections program can be found [here](https://www.nsf.gov/publications/pub_summ.jsp?WT.z_pims_id=503559&ods_key=nsf15576)
 
 ## Best Practices & Standards:
 See BugFlow page [here](https://github.com/EntCollNet/BugFlow/tree/master/bestpractices).
