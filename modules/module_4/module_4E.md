@@ -34,7 +34,7 @@ File renaming program
 Number of images per hour
 
 ## Outreach Opportunities: 
-Images of slides (T6) can be used in social media
+Images of slides (T6) can be used in social media. Images can be used to count specimens on a slide or derive other helpful specimen information (e.g., [Penguin Watch](https://www.zooniverse.org/projects/penguintom79/penguin-watch)), identify specimens (e.g., [Drones for Ducks](https://www.zooniverse.org/projects/rowan-aspire/drones-for-ducks?utm_source=Newsletter&utm_medium=Email&utm_campaign=announce11may2021), [Serengeti Wildebeest Count](https://www.zooniverse.org/projects/dl-j/serengeti-wildebeest-count), [Weddell Seal Count](https://www.zooniverse.org/projects/slg0808/weddell-seal-count)), or used for machine learning and computer vision ([Zooniverse example](https://www.zooniverse.org/talk/449/56113)).
 
 ## Exemplar Workflows: 
 - Tutorials on photo stacking using the MacropodPro system and compound scope lenses can be found [here](https://macroscopicsolutions.com/video-tutorial-macropod-micro-kit/)
