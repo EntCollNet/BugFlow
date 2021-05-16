@@ -17,20 +17,40 @@ transcription, image, label, specimen, data capture
 |T6|Enter links to or attach related literature or publications, field books, logs, or record-level authority sources.|||
 |T7|Perform QA (M5)|||
 
-## Essential Training: 
-Define metrics that can be measured to assess success of workflows using this module
+## Essential Training:  
+#### Labels
+- Label discrimination  
+- Label data interpretation, parsing, and transcription  
+- Unique identifiers and barcodes 
+#### Digital Data Management
+- General data entry (into Collections Management Software or spreadsheet)
+- Darwin Core
+- Dublin Core
+- Localities and Georeferencing
+- Data recording best practices
+#### General
+- Collection-specific historical & legacy organization system(s)
+- Collection Oddities, Quirks
+#### Taxonomy
+- Types of Types
+- Taxonomic Hierarchy (including name endings)
+- Nomenclature and Authorship 
 
 ## Module Metrics, Costing, and Reporting: 
-Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
+Number of image labels transcibed per hour
 
 ## Outreach Opportunities: 
-List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
+- Images can be used for community transcription outreach efforts. E.g. [TPT Notes from Nature](https://www.zooniverse.org/projects/md68135/notes-from-nature-terrestrial-parasite-tracker), [DigiVol](https://volunteer.ala.org.au/), [Smithsonian Digital Volunteers ](https://transcription.si.edu/)
+- Images can be used for various social media campaigns highlighting interesting and unique specimens in the museum
 
 ## Exemplar Workflows: 
 List of examplar workflows organized by database type.
 
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion.
+
+## Best Practices & Standards:
+See BugFlow page [here](https://github.com/EntCollNet/BugFlow/tree/master/bestpractices).
 
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
