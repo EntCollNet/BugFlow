@@ -26,9 +26,41 @@ imaging, focus-stacking, high-resolution, slides
 |T14|Return containers to collection and flag beginning point for next imaging session.|Returning slide boxes or trays to cabinets might occur in bulk at the end of an imaging session. It is recommended that all completed slide boxes, drawers, cabinets, etc. get a label, sticker, or other marking that indicates all specimen labels in that unit or container were imaged. This will save a great deal of time when trying to find specimens in the collection already imaged or ones that are still in need of imaging.||
 
 ## Essential Training: 
-Slide and label handling  
-Imaging system  
-File renaming program  
+#### Specimen Handling   
+- Slide handling  
+- Specimen repair and damaged specimen handling  
+- Sorting 
+#### Labels
+- Label discrimination 
+- Label handling 
+- Label data interpretation, parsing, and transcription 
+- Label making and labeling standards 
+- Container labels 
+- Unique identifiers and barcodes 
+#### Imaging
+Image processing software (including image editing)
+Imaging system
+File naming (software and standards)
+Digital Asset Management System
+Specimen cleaning
+#### Digital Data Management
+- General data entry (into Collections Management Software or spreadsheet)
+- Darwin Core
+- Dublin Core
+- Localities and Georeferencing
+- Data recording best practices
+#### General
+- General Collections Organization
+- IPM protocols
+- Safety
+- Collection-specific historical & legacy organization system(s)
+- Collection Oddities, Quirks
+- Good Housekeeping
+- Curatorial materials and supplies
+#### Taxonomy
+- Types of Types
+- Taxonomic Hierarchy (including name endings)
+- Nomenclature and Authorship 
 
 ## Module Metrics, Costing, and Reporting: 
 Number of images per hour
