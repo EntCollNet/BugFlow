@@ -38,11 +38,11 @@ imaging, focus-stacking, high-resolution, slides
 - Container labels 
 - Unique identifiers and barcodes 
 #### Imaging
-Image processing software (including image editing)
-Imaging system
-File naming (software and standards)
-Digital Asset Management System
-Specimen cleaning
+- Image processing software (including image editing)
+- Imaging system
+- File naming (software and standards)
+- Digital Asset Management System
+- Specimen cleaning
 #### Digital Data Management
 - General data entry (into Collections Management Software or spreadsheet)
 - Darwin Core
