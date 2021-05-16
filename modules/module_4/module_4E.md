@@ -75,5 +75,8 @@ Images of slides (T6) can be used in social media. Images can be used to count s
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion. 
 
+## Best Practices & Standards:
+See BugFlow page [here](https://github.com/EntCollNet/BugFlow/tree/master/bestpractices).
+
 ### [Module List](https://entcollnet.github.io/BugFlow/modules/)
 ### [See main page here](https://entcollnet.github.io/BugFlow/)
