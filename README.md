@@ -11,7 +11,7 @@ We work together, develop ideas, and stay in touch on the [BugFlow Slack](https:
 ### Collaborate on building modules and workflows
 We are always looking to grow our team of contributors and value community feedback.  Join slack or send an email to any members of BugFlow to get connected.  Please leave feedback requests and discussion in our [Project Issues tracker](https://github.com/EntCollNet/BugFlow/issues).
 
-Have an existing workflow from your institution to deposit? Submit a link to a workflow here [Workflow Creator](https://github.com/EntCollNet/BugFlow/issues/new/choose) or create a new workflow from scratch.
+Have an existing workflow from your institution to deposit? Submit a link to a workflow or create a new workflow from scratch in our [Workflow Creator](https://github.com/EntCollNet/BugFlow/issues/new/choose) 
 
 
 ## BugFlow Modules
