@@ -39,7 +39,7 @@ BugFlow is broken into 5 super-modules which are linked below.  Each super-modul
 ## Exemplar workflows
 As the modules are developed, examples of workflows containing incorporating these modules will be given here.
 
-If you have a workflow to contribute or deposit into Bugflow, use the corresponding "Workflow Template" here: https://github.com/EntCollNet/BugFlow/issues/new/choose
+If you have a workflow to contribute or deposit into Bugflow, use the corresponding "Workflow Template" [here](https://github.com/EntCollNet/BugFlow/issues/new/choose)
 
 ## Entomological Collections Best-Practices
 Several members of the BugFlow project have joined with other individuals from the entomological collections community to work on entomology-related Best Practices for the SPNHC wiki, see: [SPNHC Best Practices](https://spnhc.biowikifarm.net/wiki/Category:Best_Practices).  Contact anyone from BugFlow to get connected with that project.
