@@ -1,6 +1,6 @@
 ---
 name: Workflow creator - For Linking
-about: Link a created workflow for integration into BugFlow (but not hosted there). Complete info. below & hit submit. An admin will start the process of integrating it into BugFlow.
+about: Link a created workflow for integration into BugFlow (but not hosted there). Complete information below & hit submit. An admin will start the process of integrating it into BugFlow.
 title: 'WORKFLOW CREATOR - FOR LINKING'
 labels: 
 assignees: ''
