@@ -1,7 +1,7 @@
 ---
-name: Workflow creator
+name: Workflow creator - Brand New
 about: Create a new workflow for deposition into BugFlow. You want your workflow hosted by Bugflow, written in Markdown. Use the Markdown template below to create a new workflow. 
-title: 'WORKFLOW CREATOR'
+title: 'WORKFLOW CREATOR - BRAND NEW'
 labels: 
 assignees: ''
 
