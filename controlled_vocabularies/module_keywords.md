@@ -21,7 +21,7 @@ Choose keywords for workflows and modules from this list.
 | compliance             | focus-stacking         | metadata               | script             |
 | containers             | frozen                 | molecular              | slide              |
 | crowd-sourcing         | gazetteer              | Nagoya Protocol        | specimen           |
-| curation               | GBIF                   | natural history museum | stiching           |
+| curation               | GBIF                   | natural history museum | stitching          |
 | curatorial information | genomic                | notes                  | strategic planning |
 | data                   | geography              | organization           | taxonomic changes  |
 | data capture           | georeferencing         | papered                | tissue             |
