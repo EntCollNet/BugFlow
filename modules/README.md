@@ -14,7 +14,7 @@ BugFlow is broken into 5 super-modules which are linked below.  Each super-modul
 [Module 2 - Project Management](module_2/)
 
 ### Super-Module 3
-[Module 2 - Label Data](module_3/)
+[Module 3 - Label Data](module_3/)
 
 ### Super-Module 4
 [Module 4 - Imaging](module_4/)
