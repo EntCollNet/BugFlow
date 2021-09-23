@@ -18,6 +18,7 @@ Please provide the following information:
 1. Institution(s): The institution or organization where this document was created for/at.
 1. Date Created: The date this workflow was initially created. Use DD/MM/YYYY
 1. Copyright status: Best practice is to provide a workflow under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/), but Bugflow will allow workflow submissions of all CC licenses listed [here](https://creativecommons.org/about/cclicenses/)
+1. Associated Projects: List projects for which this workflow was developed.
 1. Keywords: Keyword 1 | Keyword 2 | Keyword 3 | Keyword 4 | Keyword 5 (Browse around the modules to see example keywords)
 1. Software Used: Software and/or database required to perform this workflow, pipe-separated (e.g. TaxonWorks | Symbiota | Inselect | Adobe Photoshop)
 1. Suggested Modules: Modules you think should link to your workflow, pipe-separated (e.g. Module # | Module # | Module #)
