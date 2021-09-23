@@ -15,21 +15,22 @@ Choose keywords for workflows and modules from this list.
 | bulk samples           | exposure               | locality               | regulations        |
 | butterfly              | extended specimen      | longitude              | relationship       |
 | bycatch                | field notebooks        | low-resolution         | reusability        |
-| collecting event       | field work             | malaise traps          | review             |
-| collector parsing      | file naming            | management             | RNA                |
-| color                  | flat                   | measurements           | scanning           |
-| compliance             | focus-stacking         | metadata               | script             |
-| containers             | frozen                 | molecular              | slide              |
-| crowd-sourcing         | gazetteer              | Nagoya Protocol        | specimen           |
-| curation               | GBIF                   | natural history museum | stitching          |
-| curatorial information | genomic                | notes                  | strategic planning |
-| data                   | geography              | organization           | taxonomic changes  |
-| data capture           | georeferencing         | papered                | tissue             |
-| data publication       | high-resolution        | parsing                | training           |
-| data quality           | hiring                 | permit tracking        | transcription      |
-| databasing             | historical information | photogrammetry         | value-added        |
-| date formats           | identfication          | photography            | wet                |
-| determination          | iDigBio                | pinned                 | wet insect soup    |
-| digitization           | image                  | pitfall                | whole-drawer       |
-| digitization cost      | imaging                | planning               | workflow           |
-| digitization rate      | insect collection      | pointed                | yellow pan         |
+| cataloguing            | field work             | malaise traps          | review             |
+| collecting event       | file naming            | management             | RNA                |
+| collector parsing      | flat                   | measurements           | scanning           |
+| color                  | focus-stacking         | metadata               | script             |
+| compliance             | frozen                 | molecular              | slide              |
+| containers             | gazetteer              | Nagoya Protocol        | specimen           |
+| crowd-sourcing         | GBIF                   | natural history museum | stitching          |
+| curation | genomic     | notes                  | strategic planning |
+| curatorial information | geography              | organization           | taxonomic changes  |
+| data                   | georeferencing         | papered                | tissue             |
+| data capture           | high-resolution        | parsing                | training           |
+| data publication       | hiring                 | permit tracking        | transcription      |
+| data quality           | historical information | photogrammetry         | value-added        |
+| databasing             | identfication          | photography            | wet                |
+| date formats           | iDigBio                | pinned                 | wet insect soup    |
+| determination          | image                  | pitfall                | whole-drawer       |
+| digitization           | imaging                | planning               | workflow           |
+| digitization cost      | insect collection      | pointed                | yellow pan         |
+| digitization rate
