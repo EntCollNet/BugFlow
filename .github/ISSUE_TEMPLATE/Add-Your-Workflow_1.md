@@ -22,6 +22,7 @@ Please provide the following information:
 1. Keywords: Keyword 1 | Keyword 2 | Keyword 3 | Keyword 4 | Keyword 5 (Browse around the modules to see example keywords)
 1. Software Used: Software and/or database required to perform this workflow, pipe-separated (e.g. TaxonWorks | Symbiota | Inselect | Adobe Photoshop)
 1. Suggested Modules: Modules you think should link to your workflow, pipe-separated (e.g. Module # | Module # | Module #)
+1. Workflow Version: Use a major.minor format, starting at 1.0
 
 # WORKFLOW TEMPLATE
 ## YOUR TITLE HERE
