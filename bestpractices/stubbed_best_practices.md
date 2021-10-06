@@ -13,7 +13,7 @@ This is a file for brainstorming/adding ideas for best practices guides/resource
 ### Misc. Best Practices
 1. Labeling (slides [4F](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_4/module_4F.md), pins, envelopes, ethanol)
 2. Enveloped specimen preservation [4C](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_4/module_4C.md)
-3. Point mounting: [Example video](https://www.youtube.com/watch?v=ckCwY8SDMe4) 
+3. Point mounting: [Example video](https://www.youtube.com/watch?v=ckCwY8SDMe4) (awesome 3D printed pinning block design [here](https://subulatepalpomere.com/2021/09/21/pointing-and-pinning-block-v6/)
 4. your favorite best practices page here
 5. your favorite best practices page here
 6. your favorite best practices page here
