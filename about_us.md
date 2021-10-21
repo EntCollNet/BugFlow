@@ -46,8 +46,9 @@ dlpaul AT illinois DOT edu
 Illinois Natural History Survey, [Species File Group](https://speciesfilegroup.org/), Prairie Research Institute, Champaign, IL, USA
 
 #### [Erika Tucker](https://bug.news/about/)
-EMTuckerLab@gmail.com   
-[University of Michigan Musuem of Zoology Insect Collection](https://lsa.umich.edu/ummz/insects.html), Ann Arbor, MI, USA  
+EMTuckerLab@gmail.com \
+[Milwaukee Public Museum](https://www.mpm.edu/), Milwaukee, Wisconsin, USA \
+[Biodiversity Outreach Network (BON)](https://www.bon-earth.org)  
 
 #### Maureen Turcatel
 email
