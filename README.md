@@ -15,7 +15,7 @@ Have an existing workflow from your institution to deposit? Submit a link to a w
 
 
 ## BugFlow Modules
-The primary output of BigFlow is a set of modules that contain outline the tasks and resources needed to create digitization workflows for entomological collections. They are actively being developed within this repository, and are available here:
+The primary output of BigFlow is a set of modules that outline the tasks and resources needed to create digitization workflows for entomological collections. They are actively being developed within this repository, and are available here:
 ### [Current BugFlow Modules](modules/)
 
 To see issues and tasks still pending, please see the github repository issues located here:
