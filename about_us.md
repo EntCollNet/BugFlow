@@ -54,8 +54,8 @@ EMTuckerLab@gmail.com \
 email
 affiliation(s)
 #### Jen Zaspel
-email
-affiliation(s)
+zaspelj@mpm.edu \
+Milwaukee Public Museum, Milwaukee, Wisconsin, USA
 
 #### Member Name
 email
