@@ -27,6 +27,10 @@ Project management, planning
 
 [Module 4J: Image Processing](module_4J.md)
 
+[Module 4K: Pinned 2D non-stacked specimen imaging](module_4K.md)
+
+[Module 4L: Vial Low-res imaging]()
+
 ## Super-Module Deliverables and Data Generated
 to-do
 
