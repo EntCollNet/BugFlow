@@ -29,7 +29,7 @@ Project management, planning
 
 [Module 4K: Pinned 2D non-stacked specimen imaging](module_4K.md)
 
-[Module 4L: Vial Low-res imaging]()
+[Module 4L: Vial Low-res imaging](module_4L.md)
 
 ## Super-Module Deliverables and Data Generated
 to-do
