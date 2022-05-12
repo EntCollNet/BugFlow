@@ -9,56 +9,66 @@ We welcome any and all members of the entomological and collections communities 
 ## Project Members
 This project draws from a diverse group of people and preexisting resources. Project members are listed below alphabetically.  Content contributions/contributors are also tracked by GitHub and can be viewed for the entire project or for specific files. All members are encouraged to add their affiliations and contact info to the list as they desire!
 
-#### Cat Chapman
-email
-affiliation(s)
+<!-- Commented out. To have show on page again just remove comment bracket... -->
 
-#### Nicole Fisher
-nicole.fisher@csiro.au
+**Cat Chapman**\
+[Contact form](https://www.idigbio.org/contact/Caitlin_%E2%80%9CCat%E2%80%9D_Chapman)\
+iDigBio Biodiversity Informatics Coordinator
+<br>
+
+**Nicole Fisher**\
+nicole.fisher@csiro.au\
 National Research Collections of Australia (CSIRO Collections), CSIRO, Canberra, Australia
 
-#### Chris Grinter
-email
-affiliation(s)
+**Chris Grinter**\
+cgrinter@calacademy.org\
+[California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/christopher-c-grinter), San Francisco, CA, USA
 
-#### Rachel Hawkins Sipe
-email
-affiliation(s)
+**Rachel Hawkins Sipe**\
+rhawkins@fas.harvard.edu\
+[Museum of Comparative Zoology](https://mcz.harvard.edu/people/rachel-hawkins), Cambridge, MA, USA
 
-#### Pam Horsley
-email
-affiliation(s)
+**Pam Horsley**\
+phorsley@sdnhm.org\
+[Diego Natural History Museum](https://www.sdnhm.org/science/entomology/staff/), San Diego, CA, USA
 
-#### Andrew Johnston
+**Andrew Johnston**\
 ajohnston@asu.edu  
 Biodiversity Knowledge Integration Center and NEON Biorepository, Arizona State University, Tempe, AZ, USA
 
-#### Erica Krimmel
-email
-affiliation(s)
-#### Crystal Maier
-email
-affiliation(s)
+**Erica Krimmel**\
+[Contact form](https://www.idigbio.org/contact/Erica_Krimmel)\
+iDigBio Digitization Resources Coordinator
 
-#### Tommy McElrath
+**Crystal Maier**\
+cmaier@fas.harvard.edu\
+[Museum of Comparative Zoology](https://mcz.harvard.edu/people/crystal-maier), Cambridge, MA, USA
+
+**Tommy McElrath**\
 tcm@illinois.edu  
 Illinois Natural History Survey, Prairie Research Institute, Champaign, IL, USA
 
-#### Deborah Paul
+**Deborah Paul**\
 dlpaul AT illinois DOT edu  
 Illinois Natural History Survey, [Species File Group](https://speciesfilegroup.org/), Prairie Research Institute, Champaign, IL, USA
 
-#### Erika Tucker
+**Erika Tucker**\
 EMTuckerLab@gmail.com \
 [Milwaukee Public Museum](https://www.mpm.edu/), Milwaukee, Wisconsin, USA | [Biodiversity Outreach Network (BON)](https://www.bon-earth.org) | [Bug News](https://bug.news/)
 
-#### Maureen Turcatel
-email
-affiliation(s)
-#### Jen Zaspel
-zaspelj@mpm.edu \
-Milwaukee Public Museum, Milwaukee, Wisconsin, USA
+**Maureen Turcatel**\
+mturcatel@fieldmuseum.org\
+[Field Museum of Natural History](https://www.fieldmuseum.org/about/staff/profile/2663), Chicago, IL, USA
 
+**Jen Zaspel**\
+zaspelj@mpm.edu \
+[Milwaukee Public Museum](https://www.mpm.edu/research-collections/zoology/vertebrate-zoology/staff), Milwaukee, Wisconsin, USA
+
+<!--
 #### Member Name
 email
 affiliation(s)
+-->
+
+
+
