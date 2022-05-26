@@ -70,7 +70,7 @@ Images of slides (T6) can be used in social media. Images can be used to count s
 
 ## Exemplar Workflows: 
 - Tutorials on photo stacking using the MacropodPro system and compound scope lenses can be found [here](https://macroscopicsolutions.com/video-tutorial-macropod-micro-kit/)   
-- Video tutorial on Leica compound microscope use [here](https://drive.google.com/file/d/1_iJNClBLhJ1Mb-wcDVYUMnTqsJX4hIss/view?usp=sharing)
+- Video tutorial on high res images of slides using a Leica compound microscope [here](https://youtu.be/6wDZeBFj8Ho)
 
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion. 
