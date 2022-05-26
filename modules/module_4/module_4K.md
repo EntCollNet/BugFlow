@@ -14,7 +14,7 @@ labels, imaging, pinned, low-resolution, photography
 |T1| Select and transport affected drawer(s) to proximity of imaging station.|The workflow outlined for this module integrates steps for specimen imaging, whether for all specimens or exemplar specimens.| Institutional imaging policy.  For further information on imaging guidelines and standards, see [iDigBio](https://www.idigbio.org/content/idigbio-image-file-format-requirements-and-recommendations).|
 |T2|Set aside damaged specimens for conservation workflow.|Re-route specimen to conservation workflow per conservation policy. Whether to image before conservation might depend upon the severity of the damage.  Also see [Module 2A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_2/module_2A.md)|Institutional conservation policy.|
 |T3|If specimens are not catalogued, transcribed, or databased, decide on whether to do so before or after imaging. Regardless, imaged specimens should be associated with a unique identifier such as a catalog number. Add unique identifiers (if needed) and a label indicating that the specimen has been imaged.|Exemplar high resolution imaging can be done before or after typical databasing of specimen. Generally, digitization of specimens is a different workflow than imaging specimens in high resolution, and should be thought about separately, although associating images with specimens is much easier if they already at least have an database record created with an associated unique identifier.| Institutional guidelines for labels |
-|T4|Select and remove (exemplar) specimens from unit tray or drawer.|Exemplar specimens may be selected here or during pre-digitization curation [Module 2A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_2/module_2A.md) or [Module 1A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_1/module_1A.md)||
+|T4|Select and remove specimens from unit tray or drawer.| Specimens may be selected here or during pre-digitization curation [Module 2A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_2/module_2A.md) or [Module 1A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_1/module_1A.md)||
 |T5|Un-pin label(s).|Remove all labels from specimen, maintaining or recording their sequence.|Forceps for removing labels. See SPNHC newsletter 26(2):18 [Link](http://www.spnhc.org/media/assets/September2012final.pdf) (members only).|
 |T6|Clean specimen in preparation for imaging.|As necessary|Cleaning tools, Institutional guidelines.|
 |T7|Associate the catalog number barcode label with the specimen, if not already completed.|If specimens have the catalog number associated during an individual specimen handling and imaging process, it happens here.||
@@ -35,10 +35,11 @@ Define metrics that can be measured to assess success of workflows using this mo
 Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
 
 ## Outreach Opportunities: 
-List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
+[Notes from Nature](https://www.zooniverse.org/organizations/md68135/notes-from-nature) and [Zooniverse](https://www.zooniverse.org/projects) provide many oppertunities to combine transcription work, or other image based projects, with public engagement and citizen scientists (e.g., [TPT](https://www.zooniverse.org/projects/md68135/notes-from-nature-terrestrial-parasite-tracker); [MI-BUG](https://www.zooniverse.org/projects/jmschell/notes-from-nature-mi-bug); etc.)
 
 ## Exemplar Workflows: 
-List of examplar workflows organized by database type.
+* TPT Pinned Specimen & Label Photography [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/TPT-Pinned%20Specimen%20and%20Label%20Photography%20Workflow%20Template.pdf)
+* UMMZI specimen and label imaging [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/UMMZI-Digitization-w-labels-procedure1.1-email.pdf)
 
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion. 
