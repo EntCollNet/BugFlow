@@ -41,6 +41,7 @@ image, images, imaging, metadata, label data, labels, labeling, low-resolution, 
 * TaxonWorks: [Label and low-res staged image photography workflow](https://docs.google.com/document/d/1jeB0PCmy81aiDRrIMJX-HETB8nngbZRhfd0RDLTEr9Q/edit?usp=sharing)
 * TPT: [Pinned specimen & label photography workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/TPT-Pinned%20Specimen%20and%20Label%20Photography%20Workflow%20Template.pdf)
 * UMMZI: [Label & specimen imaging workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/UMMZI-Digitization-w-labels-procedure1.1-email.pdf)
+* Inselect slide mounted specimen image processing [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/Inselect%20Workflow%20Demo.pdf)
 
 ## Discussion:
 Label imaging is often overlooked, either because it is simple, or not deemed as important as images of the specimens themselves. But label data are often just as, if not more important, than an image of the specimen. Properly documenting the label data via images can allow for decreased handling time, increased use of specimens, and opportunities for outreach. 
