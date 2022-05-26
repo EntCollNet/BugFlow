@@ -46,7 +46,8 @@ Essig Museum Slide Scanning [Workflow](https://www.idigbio.org/wiki/images/3/30/
 INHS Insect Collection Slide Scanning [Workflow](https://docs.google.com/document/d/1V_gCv9W5QG3p0rpUZtvssucrJ5I5ZjtmOD3jbFOfkEk/edit?usp=sharing)   
 MPM Slide Scanning [Workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/MPM%20Slide%20Scanning%20Workflow.pdf)  
 UMMZI Slide Scanning [Workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/UMMZI-Slide-Scanning.pdf) <br>
-Allan E, Livermore L, Price B, Shchedrina O, Smith V (2019) **A Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides**. Biodiversity Data Journal 7: e32342. https://doi.org/10.3897/BDJ.7.e32342
+Allan E, Livermore L, Price B, Shchedrina O, Smith V (2019) **A Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides**. Biodiversity Data Journal 7: e32342. https://doi.org/10.3897/BDJ.7.e32342. 
+Inselect example [slide mounted specimen workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/Inselect%20Workflow%20Demo.pdf). 
 
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion. 
