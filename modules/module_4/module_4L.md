@@ -44,7 +44,8 @@ Transcription of slide images can be done via crowdsourcing (e.g. Notes from Nat
 ## Exemplar Workflows: 
 INHS Insect Collection Vial Scanning [Workflow](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_4/SOP_%20Creating%20new%20images%20of%20vial-preserved%20specimens%20for%20uploading%20into%20TaxonWorks.pdf) <br>
 Center for Nanoscale Science and Technology Workshop (2012) [YouTube video](https://www.youtube.com/watch?v=P8ThUAizaHo) <br>
-Dupont S, Humphries J, Butcher AJ, Baker E, Balcells L, Price BW (2020) **Ahead of the curve: three approaches to mass digitisation of vials with a focus on label data capture** [journal article](https://riojournal.com/article/53606/)
+Dupont S, Humphries J, Butcher AJ, Baker E, Balcells L, Price BW (2020) **Ahead of the curve: three approaches to mass digitisation of vials with a focus on label data capture** [journal article](https://riojournal.com/article/53606/).   
+Slide mounted specimen image processing [Inselect examplar workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/Inselect%20Workflow%20Demo.pdf).
 
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion. 
