@@ -1,7 +1,7 @@
 # Module 3A: Direct Label Transcription
 
 ## Module Purpose: 
-This module is intended for capturing the primary label data from a pinned specimen. 
+This module is intended for capturing the primary label data from a pinned and vialed specimens. 
 
 ## Module Keywords: 
 Pinned, Pointed, labels, specimen, transcribe
@@ -19,10 +19,20 @@ Pinned, Pointed, labels, specimen, transcribe
 |T8|Record who has done transcription.|This can include both transcriber and the project during which it was transcribed.||
 
 ## Essential Training: 
-Define metrics that can be measured to assess success of workflows using this module
+Specimen handling\
+Label handling\
+Data recording best practices\
+General collections organization\
+Collection-specific historical & legacy organization system(s) Collection oddities, quirks Darwin Core Dublin Core 
 
-## Module Metrics, Costing, and Reporting: 
-Define metrics that can be measured to assess success of workflows using this module (reference specific TaskIDs).
+## Exemplar Workflows: 
+[TAMU TPT Ectoparasite Vial Specimen Protocol](https://github.com/EntCollNet/BugFlow/blob/master/workflows/TAMU-TPT-ectoparasite-vial-protocol.pdf) and example [Metadata Template](https://github.com/EntCollNet/BugFlow/blob/master/workflows/TAMU-TPT-ectoparasite-vial-metadata-template.xlsx).\
+See also Bugflow [workflows](https://github.com/EntCollNet/BugFlow/tree/master/workflows) folder. 
+
+## Module Metrics, Costing, and Reporting: Number of records per hour
+Number of images per hour\
+Number of specimens damaged during digitiization\
+Number of field book pages captured per hour
 
 ## Outreach Opportunities: 
 List outreach opportunities that arise in workflows using this module (reference specific TaskIDs).
