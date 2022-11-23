@@ -11,7 +11,7 @@ labels, imaging, pinned, low-resolution, photography
 
 | TaskID | Task Name | Explanations and Comments | Resources |
 |--------|-----------|---------------------------|-----------|
-|T1| Select and transport affected drawer(s) to proximity of imaging station.|The workflow outlined for this module integrates steps for specimen imaging, whether for all specimens or exemplar specimens.| Institutional imaging policy.  For further information on imaging guidelines and standards, see [iDigBio](https://www.idigbio.org/content/idigbio-image-file-format-requirements-and-recommendations).|
+|T1| Select and transport affected drawer(s) to proximity of imaging station.|The workflow outlined for this module integrates steps for specimen imaging, whether for all specimens or exemplar specimens.| Institutional imaging policy.  For further information on imaging guidelines and standards, see [iDigBio](https://www.idigbio.org/content/idigbio-image-file-format-requirements-and-recommendations). See exemplar workflows below.|
 |T2|Set aside damaged specimens for conservation workflow.|Re-route specimen to conservation workflow per conservation policy. Whether to image before conservation might depend upon the severity of the damage.  Also see [Module 2A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_2/module_2A.md)|Institutional conservation policy.|
 |T3|If specimens are not catalogued, transcribed, or databased, decide on whether to do so before or after imaging. Regardless, imaged specimens should be associated with a unique identifier such as a catalog number. Add unique identifiers (if needed) and a label indicating that the specimen has been imaged.|Exemplar high resolution imaging can be done before or after typical databasing of specimen. Generally, digitization of specimens is a different workflow than imaging specimens in high resolution, and should be thought about separately, although associating images with specimens is much easier if they already at least have an database record created with an associated unique identifier.| Institutional guidelines for labels |
 |T4|Select and remove specimens from unit tray or drawer.| Specimens may be selected here or during pre-digitization curation [Module 2A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_2/module_2A.md) or [Module 1A](https://github.com/EntCollNet/BugFlow/blob/master/modules/module_1/module_1A.md)||
@@ -40,6 +40,7 @@ Define metrics that can be measured to assess success of workflows using this mo
 ## Exemplar Workflows: 
 * TPT Pinned Specimen & Label Photography [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/TPT-Pinned%20Specimen%20and%20Label%20Photography%20Workflow%20Template.pdf)
 * UMMZI specimen and label imaging [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/UMMZI-Digitization-w-labels-procedure1.1-email.pdf)
+* Big-Bee imaging box specifications [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/Big-Bee-Specifications%20for%20a%20bee%20imaging%20box%20-%20to%20share.pdf)
 
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion. 
