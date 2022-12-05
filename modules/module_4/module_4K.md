@@ -41,6 +41,7 @@ Define metrics that can be measured to assess success of workflows using this mo
 * TPT Pinned Specimen & Label Photography [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/TPT-Pinned%20Specimen%20and%20Label%20Photography%20Workflow%20Template.pdf)
 * UMMZI specimen and label imaging [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/UMMZI-Digitization-w-labels-procedure1.1-email.pdf)
 * Big-Bee imaging box specifications [workflow](https://github.com/EntCollNet/BugFlow/blob/master/workflows/Big-Bee-Specifications%20for%20a%20bee%20imaging%20box%20-%20to%20share.pdf)
+* Essig imaging box [Instructables assembly & laser cutter files](https://www.instructables.com/Entomology-Photography-Tray/) and [YouTube assembly video](https://www.youtube.com/watch?v=JtElelNcw2Y)
 
 ## Discussion:
 No discussion yet. Open an issue and reference this module to start discussion. 
